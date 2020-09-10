@@ -2,7 +2,6 @@ package com.testing.api.jira.service;
 
 import java.util.regex.Pattern;
 
-import com.testing.api.jira.values.TemporaryValues;
 
 
 public class ResponseAssertionService extends BaseService{
@@ -13,7 +12,7 @@ public class ResponseAssertionService extends BaseService{
 		return Pattern.matches(STATUS_CODE_2XX, Integer.toString(response.getStatusCode()));
 	}
 	
-	public boolean assertCreatedIssueIsReturned() {
-		return response.getBody().jsonPath().get("id").equals(TemporaryValues.createdIssueId);
+	public boolean assertCreatedIssueIsReturned(String expectedIssueId) {
+		return response.getBody().jsonPath().get("id").equals(expectedIssueId);
 	}
 }

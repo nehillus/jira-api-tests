@@ -20,10 +20,10 @@ public class FieldsFactory {
 				.build();
 	}
 
-	public static Fields fieldsForEpic() {
+	public static Fields fieldsForTask() {
 		return new Fields.FieldsBuilder()
 				.withDescription(SAMPLE_PROJECT_NAME)
-				.withIssuetype(IssueType.EPIC)
+				.withIssuetype(IssueType.TASK)
 				.withProject(new Project(PROJECT_KEY))
 				.withSummary(SAMPLE_SUMMARY)
 				.build();

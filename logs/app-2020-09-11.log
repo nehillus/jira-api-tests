@@ -1,0 +1,827 @@
+2020-09-11 00:14:00.754 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:14:00.796 Logger INFO  - Sending authorisation request to null
+2020-09-11 00:14:00.913 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:14:00.917 Logger INFO  - Skipped test createNewIssueTest
+2020-09-11 00:14:00.923 Logger INFO  - Sending authorisation request to null
+2020-09-11 00:14:00.929 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:14:00.932 Logger INFO  - Skipped test createNewIssueTest
+2020-09-11 00:14:00.937 Logger INFO  - Sending authorisation request to null
+2020-09-11 00:14:00.944 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:14:00.950 Logger INFO  - Skipped test createNewIssueTest
+2020-09-11 00:14:00.954 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:14:00.956 Logger INFO  - Skipped test getCreatedIssueTest
+2020-09-11 00:14:00.959 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:14:00.961 Logger INFO  - Skipped test getCreatedIssueTest
+2020-09-11 00:14:00.964 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:14:00.971 Logger INFO  - Skipped test getCreatedIssueTest
+2020-09-11 00:14:00.976 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 00:14:00.978 Logger INFO  - Skipped test updateCreatedIssueTest
+2020-09-11 00:14:00.980 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 00:14:00.981 Logger INFO  - Skipped test updateCreatedIssueTest
+2020-09-11 00:14:00.984 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 00:14:00.985 Logger INFO  - Skipped test updateCreatedIssueTest
+2020-09-11 00:14:00.988 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 00:14:00.989 Logger INFO  - Skipped test deleteCreatedBugTest
+2020-09-11 00:14:00.995 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 00:14:00.996 Logger INFO  - Skipped test deleteCreatedBugTest
+2020-09-11 00:14:01.001 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 00:14:01.003 Logger INFO  - Skipped test deleteCreatedBugTest
+2020-09-11 00:14:01.006 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:15:37.099 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:15:37.137 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 00:15:38.235 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 00:15:38.555 Logger INFO  - Setting JSESSIONID to: 181C4FB9E824D69EC025410093F760FF
+2020-09-11 00:15:38.572 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:15:38.577 Logger INFO  - Adding JSESSIONID 181C4FB9E824D69EC025410093F760FF to request
+2020-09-11 00:15:40.152 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:15:40.157 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:15:40.159 Logger INFO  - Adding JSESSIONID 181C4FB9E824D69EC025410093F760FF to request
+2020-09-11 00:15:40.359 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:15:40.364 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:15:40.368 Logger INFO  - Adding JSESSIONID 181C4FB9E824D69EC025410093F760FF to request
+2020-09-11 00:15:40.469 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:15:40.471 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:15:40.472 Logger INFO  - Adding JSESSIONID 181C4FB9E824D69EC025410093F760FF to request
+2020-09-11 00:15:40.727 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:15:40.729 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:15:40.731 Logger INFO  - Adding JSESSIONID 181C4FB9E824D69EC025410093F760FF to request
+2020-09-11 00:15:40.744 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:15:40.747 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:15:40.747 Logger INFO  - Adding JSESSIONID 181C4FB9E824D69EC025410093F760FF to request
+2020-09-11 00:15:40.759 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:15:40.761 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 00:15:40.761 Logger INFO  - Adding JSESSIONID 181C4FB9E824D69EC025410093F760FF to request
+2020-09-11 00:15:40.776 Logger INFO  - updateCreatedIssueTest test failed.
+2020-09-11 00:15:40.781 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 00:15:40.782 Logger INFO  - Adding JSESSIONID 181C4FB9E824D69EC025410093F760FF to request
+2020-09-11 00:15:40.794 Logger INFO  - updateCreatedIssueTest test failed.
+2020-09-11 00:15:40.796 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 00:15:40.797 Logger INFO  - Adding JSESSIONID 181C4FB9E824D69EC025410093F760FF to request
+2020-09-11 00:15:40.808 Logger INFO  - updateCreatedIssueTest test failed.
+2020-09-11 00:15:40.810 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 00:15:40.811 Logger INFO  - Adding JSESSIONID 181C4FB9E824D69EC025410093F760FF to request
+2020-09-11 00:15:40.821 Logger INFO  - deleteCreatedBugTest test failed.
+2020-09-11 00:15:40.833 Logger INFO  - Cleaning up
+2020-09-11 00:15:40.834 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 00:15:40.835 Logger INFO  - Adding JSESSIONID 181C4FB9E824D69EC025410093F760FF to request
+2020-09-11 00:15:40.851 Logger INFO  - deleteCreatedBugTest test failed.
+2020-09-11 00:15:40.863 Logger INFO  - Cleaning up
+2020-09-11 00:15:40.864 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 00:15:40.865 Logger INFO  - Adding JSESSIONID 181C4FB9E824D69EC025410093F760FF to request
+2020-09-11 00:15:40.873 Logger INFO  - deleteCreatedBugTest test failed.
+2020-09-11 00:15:40.891 Logger INFO  - Cleaning up
+2020-09-11 00:15:40.891 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:16:52.620 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:16:52.642 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 00:16:53.516 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 00:16:53.785 Logger INFO  - Setting JSESSIONID to: EED0538C27462B8FBF3170F1B77F1DE3
+2020-09-11 00:16:53.804 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:16:53.808 Logger INFO  - Adding JSESSIONID EED0538C27462B8FBF3170F1B77F1DE3 to request
+2020-09-11 00:16:53.966 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:16:53.979 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:16:53.980 Logger INFO  - Adding JSESSIONID EED0538C27462B8FBF3170F1B77F1DE3 to request
+2020-09-11 00:16:54.062 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:16:54.067 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:16:54.069 Logger INFO  - Adding JSESSIONID EED0538C27462B8FBF3170F1B77F1DE3 to request
+2020-09-11 00:16:54.150 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:16:54.152 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 00:16:54.153 Logger INFO  - Adding JSESSIONID EED0538C27462B8FBF3170F1B77F1DE3 to request
+2020-09-11 00:16:54.180 Logger INFO  - updateCreatedIssueTest test failed.
+2020-09-11 00:16:54.188 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 00:16:54.191 Logger INFO  - Adding JSESSIONID EED0538C27462B8FBF3170F1B77F1DE3 to request
+2020-09-11 00:16:54.205 Logger INFO  - updateCreatedIssueTest test failed.
+2020-09-11 00:16:54.208 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 00:16:54.209 Logger INFO  - Adding JSESSIONID EED0538C27462B8FBF3170F1B77F1DE3 to request
+2020-09-11 00:16:54.221 Logger INFO  - updateCreatedIssueTest test failed.
+2020-09-11 00:16:54.223 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 00:16:54.224 Logger INFO  - Adding JSESSIONID EED0538C27462B8FBF3170F1B77F1DE3 to request
+2020-09-11 00:16:54.238 Logger INFO  - deleteCreatedBugTest test failed.
+2020-09-11 00:16:54.250 Logger INFO  - Cleaning up
+2020-09-11 00:16:54.251 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 00:16:54.251 Logger INFO  - Adding JSESSIONID EED0538C27462B8FBF3170F1B77F1DE3 to request
+2020-09-11 00:16:54.261 Logger INFO  - deleteCreatedBugTest test failed.
+2020-09-11 00:16:54.275 Logger INFO  - Cleaning up
+2020-09-11 00:16:54.275 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 00:16:54.276 Logger INFO  - Adding JSESSIONID EED0538C27462B8FBF3170F1B77F1DE3 to request
+2020-09-11 00:16:54.285 Logger INFO  - deleteCreatedBugTest test failed.
+2020-09-11 00:16:54.296 Logger INFO  - Cleaning up
+2020-09-11 00:16:54.297 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:19:32.211 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:19:32.237 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 00:19:33.318 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 00:19:33.665 Logger INFO  - Setting JSESSIONID to: 9B76D9F6F4848700B003BA6C74896F4E
+2020-09-11 00:19:33.687 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:19:33.692 Logger INFO  - Adding JSESSIONID 9B76D9F6F4848700B003BA6C74896F4E to request
+2020-09-11 00:19:48.311 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:19:48.314 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:19:48.315 Logger INFO  - Adding JSESSIONID 9B76D9F6F4848700B003BA6C74896F4E to request
+2020-09-11 00:19:57.354 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:19:57.358 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:19:57.359 Logger INFO  - Adding JSESSIONID 9B76D9F6F4848700B003BA6C74896F4E to request
+2020-09-11 00:20:05.138 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:20:05.141 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:20:05.143 Logger INFO  - Adding JSESSIONID 9B76D9F6F4848700B003BA6C74896F4E to request
+2020-09-11 00:20:11.532 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:21:14.304 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:21:14.325 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 00:21:15.205 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 00:21:15.450 Logger INFO  - Setting JSESSIONID to: CE19BEB15D0EA415F77B67420B2E291B
+2020-09-11 00:21:15.467 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:21:15.470 Logger INFO  - Adding JSESSIONID CE19BEB15D0EA415F77B67420B2E291B to request
+2020-09-11 00:21:15.609 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:21:15.613 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:21:15.615 Logger INFO  - Adding JSESSIONID CE19BEB15D0EA415F77B67420B2E291B to request
+2020-09-11 00:21:15.708 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:21:15.712 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:21:15.716 Logger INFO  - Adding JSESSIONID CE19BEB15D0EA415F77B67420B2E291B to request
+2020-09-11 00:21:15.821 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:21:15.825 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:21:15.826 Logger INFO  - Adding JSESSIONID CE19BEB15D0EA415F77B67420B2E291B to request
+2020-09-11 00:21:15.850 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:21:15.867 Logger INFO  - Cleaning up
+2020-09-11 00:21:15.868 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:21:15.869 Logger INFO  - Adding JSESSIONID CE19BEB15D0EA415F77B67420B2E291B to request
+2020-09-11 00:21:15.883 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:21:15.902 Logger INFO  - Cleaning up
+2020-09-11 00:21:15.903 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:21:15.904 Logger INFO  - Adding JSESSIONID CE19BEB15D0EA415F77B67420B2E291B to request
+2020-09-11 00:21:15.916 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:21:15.929 Logger INFO  - Cleaning up
+2020-09-11 00:21:15.929 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:21:40.170 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:21:40.195 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 00:21:41.252 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 00:21:41.585 Logger INFO  - Setting JSESSIONID to: EF6B7E3592A333BEC6E7A2CB78D2F396
+2020-09-11 00:21:41.606 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:21:41.612 Logger INFO  - Adding JSESSIONID EF6B7E3592A333BEC6E7A2CB78D2F396 to request
+2020-09-11 00:21:46.272 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:21:46.274 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:21:46.276 Logger INFO  - Adding JSESSIONID EF6B7E3592A333BEC6E7A2CB78D2F396 to request
+2020-09-11 00:21:49.399 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:21:49.401 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:21:49.402 Logger INFO  - Adding JSESSIONID EF6B7E3592A333BEC6E7A2CB78D2F396 to request
+2020-09-11 00:21:51.174 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:21:51.178 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:21:51.179 Logger INFO  - Adding JSESSIONID EF6B7E3592A333BEC6E7A2CB78D2F396 to request
+2020-09-11 00:22:49.900 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:22:49.922 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 00:22:50.796 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 00:22:51.063 Logger INFO  - Setting JSESSIONID to: F10EDBF3F28353501DA5BC614B368E68
+2020-09-11 00:22:51.081 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:22:51.085 Logger INFO  - Adding JSESSIONID F10EDBF3F28353501DA5BC614B368E68 to request
+2020-09-11 00:22:51.260 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:22:51.262 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:22:51.263 Logger INFO  - Adding JSESSIONID F10EDBF3F28353501DA5BC614B368E68 to request
+2020-09-11 00:22:51.346 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:22:51.348 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:22:51.349 Logger INFO  - Adding JSESSIONID F10EDBF3F28353501DA5BC614B368E68 to request
+2020-09-11 00:22:51.423 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:22:51.425 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:22:51.426 Logger INFO  - Adding JSESSIONID F10EDBF3F28353501DA5BC614B368E68 to request
+2020-09-11 00:22:51.470 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:22:51.485 Logger INFO  - Cleaning up
+2020-09-11 00:22:51.486 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:22:51.486 Logger INFO  - Adding JSESSIONID F10EDBF3F28353501DA5BC614B368E68 to request
+2020-09-11 00:22:51.497 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:22:51.515 Logger INFO  - Cleaning up
+2020-09-11 00:22:51.515 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:22:51.516 Logger INFO  - Adding JSESSIONID F10EDBF3F28353501DA5BC614B368E68 to request
+2020-09-11 00:22:51.526 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:22:51.537 Logger INFO  - Cleaning up
+2020-09-11 00:22:51.538 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:28:19.759 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:28:19.781 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 00:28:20.703 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 00:28:20.974 Logger INFO  - Setting JSESSIONID to: 53EBFB4B4DA600A1A5E2D7DD4E04CF09
+2020-09-11 00:28:20.990 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:28:20.994 Logger INFO  - Adding JSESSIONID 53EBFB4B4DA600A1A5E2D7DD4E04CF09 to request
+2020-09-11 00:28:21.125 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:28:21.131 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:28:21.132 Logger INFO  - Adding JSESSIONID 53EBFB4B4DA600A1A5E2D7DD4E04CF09 to request
+2020-09-11 00:28:21.245 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:28:21.248 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:28:21.249 Logger INFO  - Adding JSESSIONID 53EBFB4B4DA600A1A5E2D7DD4E04CF09 to request
+2020-09-11 00:28:21.305 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:28:21.308 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:28:21.309 Logger INFO  - Adding JSESSIONID 53EBFB4B4DA600A1A5E2D7DD4E04CF09 to request
+2020-09-11 00:28:21.330 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:28:21.357 Logger INFO  - Cleaning up
+2020-09-11 00:28:21.357 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:28:21.365 Logger INFO  - Adding JSESSIONID 53EBFB4B4DA600A1A5E2D7DD4E04CF09 to request
+2020-09-11 00:28:21.382 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:28:21.403 Logger INFO  - Cleaning up
+2020-09-11 00:28:21.404 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:28:21.405 Logger INFO  - Adding JSESSIONID 53EBFB4B4DA600A1A5E2D7DD4E04CF09 to request
+2020-09-11 00:28:21.429 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:28:21.448 Logger INFO  - Cleaning up
+2020-09-11 00:28:21.449 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:28:45.342 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:28:45.367 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 00:28:46.485 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 00:28:46.819 Logger INFO  - Setting JSESSIONID to: 523EB88323A04EC5C3A09F0304188F74
+2020-09-11 00:28:46.842 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:28:46.846 Logger INFO  - Adding JSESSIONID 523EB88323A04EC5C3A09F0304188F74 to request
+2020-09-11 00:28:51.647 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:28:51.651 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:28:51.652 Logger INFO  - Adding JSESSIONID 523EB88323A04EC5C3A09F0304188F74 to request
+2020-09-11 00:28:59.415 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:28:59.419 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:28:59.420 Logger INFO  - Adding JSESSIONID 523EB88323A04EC5C3A09F0304188F74 to request
+2020-09-11 00:29:01.067 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:29:01.071 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:29:01.072 Logger INFO  - Adding JSESSIONID 523EB88323A04EC5C3A09F0304188F74 to request
+2020-09-11 00:30:44.779 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:30:44.800 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 00:30:45.671 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 00:30:45.940 Logger INFO  - Setting JSESSIONID to: 5AB00BC10F1817DFC673C6D0EC3C040D
+2020-09-11 00:30:45.960 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:30:45.964 Logger INFO  - Adding JSESSIONID 5AB00BC10F1817DFC673C6D0EC3C040D to request
+2020-09-11 00:30:46.160 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:30:46.165 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:30:46.166 Logger INFO  - Adding JSESSIONID 5AB00BC10F1817DFC673C6D0EC3C040D to request
+2020-09-11 00:30:46.228 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:30:46.231 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:30:46.232 Logger INFO  - Adding JSESSIONID 5AB00BC10F1817DFC673C6D0EC3C040D to request
+2020-09-11 00:30:46.283 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:30:46.286 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:30:46.287 Logger INFO  - Adding JSESSIONID 5AB00BC10F1817DFC673C6D0EC3C040D to request
+2020-09-11 00:30:46.306 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:30:46.321 Logger INFO  - Cleaning up
+2020-09-11 00:30:46.321 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:30:46.322 Logger INFO  - Adding JSESSIONID 5AB00BC10F1817DFC673C6D0EC3C040D to request
+2020-09-11 00:30:46.333 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:30:46.349 Logger INFO  - Cleaning up
+2020-09-11 00:30:46.350 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:30:46.350 Logger INFO  - Adding JSESSIONID 5AB00BC10F1817DFC673C6D0EC3C040D to request
+2020-09-11 00:30:46.360 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:30:46.371 Logger INFO  - Cleaning up
+2020-09-11 00:30:46.371 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:31:07.131 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:31:07.157 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 00:31:08.278 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 00:31:08.611 Logger INFO  - Setting JSESSIONID to: A8EDCDB941F9895F07D1D2B9715DFF3B
+2020-09-11 00:31:08.633 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:31:08.637 Logger INFO  - Adding JSESSIONID A8EDCDB941F9895F07D1D2B9715DFF3B to request
+2020-09-11 00:31:15.792 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:31:15.795 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:31:15.797 Logger INFO  - Adding JSESSIONID A8EDCDB941F9895F07D1D2B9715DFF3B to request
+2020-09-11 00:31:19.875 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:31:19.878 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:31:19.879 Logger INFO  - Adding JSESSIONID A8EDCDB941F9895F07D1D2B9715DFF3B to request
+2020-09-11 00:31:20.811 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:31:20.817 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:31:20.818 Logger INFO  - Adding JSESSIONID A8EDCDB941F9895F07D1D2B9715DFF3B to request
+2020-09-11 00:36:06.387 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:36:06.412 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 00:36:07.527 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 00:36:07.858 Logger INFO  - Setting JSESSIONID to: B66DF0C4B2369D412C96436467BCF92C
+2020-09-11 00:36:07.878 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:36:07.884 Logger INFO  - Adding JSESSIONID B66DF0C4B2369D412C96436467BCF92C to request
+2020-09-11 00:36:10.659 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:36:10.662 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:36:10.664 Logger INFO  - Adding JSESSIONID B66DF0C4B2369D412C96436467BCF92C to request
+2020-09-11 00:36:11.919 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:36:11.926 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:36:11.930 Logger INFO  - Adding JSESSIONID B66DF0C4B2369D412C96436467BCF92C to request
+2020-09-11 00:36:12.717 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:36:12.721 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:36:12.722 Logger INFO  - Adding JSESSIONID B66DF0C4B2369D412C96436467BCF92C to request
+2020-09-11 00:36:28.234 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:36:30.263 Logger INFO  - Cleaning up
+2020-09-11 00:36:31.170 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:36:31.172 Logger INFO  - Adding JSESSIONID B66DF0C4B2369D412C96436467BCF92C to request
+2020-09-11 00:36:32.957 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:36:34.272 Logger INFO  - Cleaning up
+2020-09-11 00:36:35.072 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:36:35.075 Logger INFO  - Adding JSESSIONID B66DF0C4B2369D412C96436467BCF92C to request
+2020-09-11 00:36:36.700 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:36:37.525 Logger INFO  - Cleaning up
+2020-09-11 00:36:38.247 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:37:58.752 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:37:58.773 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 00:37:59.652 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 00:37:59.899 Logger INFO  - Setting JSESSIONID to: 2FB6F15FDD71E1DB1BD246A04DBDA1C2
+2020-09-11 00:37:59.915 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:37:59.919 Logger INFO  - Adding JSESSIONID 2FB6F15FDD71E1DB1BD246A04DBDA1C2 to request
+2020-09-11 00:38:00.097 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:38:00.103 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:38:00.104 Logger INFO  - Adding JSESSIONID 2FB6F15FDD71E1DB1BD246A04DBDA1C2 to request
+2020-09-11 00:38:00.190 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:38:00.192 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:38:00.193 Logger INFO  - Adding JSESSIONID 2FB6F15FDD71E1DB1BD246A04DBDA1C2 to request
+2020-09-11 00:38:00.334 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:38:00.339 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:38:00.340 Logger INFO  - Adding JSESSIONID 2FB6F15FDD71E1DB1BD246A04DBDA1C2 to request
+2020-09-11 00:38:00.381 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:38:00.433 Logger INFO  - Cleaning up
+2020-09-11 00:38:00.433 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:38:00.435 Logger INFO  - Adding JSESSIONID 2FB6F15FDD71E1DB1BD246A04DBDA1C2 to request
+2020-09-11 00:38:00.458 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:38:00.477 Logger INFO  - Cleaning up
+2020-09-11 00:38:00.478 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:38:00.479 Logger INFO  - Adding JSESSIONID 2FB6F15FDD71E1DB1BD246A04DBDA1C2 to request
+2020-09-11 00:38:00.503 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:38:00.519 Logger INFO  - Cleaning up
+2020-09-11 00:38:00.519 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:38:21.863 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:38:21.888 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 00:38:22.908 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 00:38:23.241 Logger INFO  - Setting JSESSIONID to: 743F25306AA763418C111DAD3A2E7804
+2020-09-11 00:38:23.264 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:38:23.269 Logger INFO  - Adding JSESSIONID 743F25306AA763418C111DAD3A2E7804 to request
+2020-09-11 00:38:23.454 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:38:23.457 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:38:23.459 Logger INFO  - Adding JSESSIONID 743F25306AA763418C111DAD3A2E7804 to request
+2020-09-11 00:38:23.647 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:38:23.649 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:38:23.650 Logger INFO  - Adding JSESSIONID 743F25306AA763418C111DAD3A2E7804 to request
+2020-09-11 00:38:23.744 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:38:23.747 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:38:23.749 Logger INFO  - Adding JSESSIONID 743F25306AA763418C111DAD3A2E7804 to request
+2020-09-11 00:38:41.499 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 00:38:49.237 Logger INFO  - Cleaning up
+2020-09-11 00:38:49.238 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:38:49.240 Logger INFO  - Adding JSESSIONID 743F25306AA763418C111DAD3A2E7804 to request
+2020-09-11 00:46:40.580 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:46:40.605 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 00:46:41.629 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 00:46:41.965 Logger INFO  - Setting JSESSIONID to: E6DE158280E610F67F7834146F310E61
+2020-09-11 00:46:41.987 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:46:41.992 Logger INFO  - Adding JSESSIONID E6DE158280E610F67F7834146F310E61 to request
+2020-09-11 00:46:42.162 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:46:42.164 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:46:42.168 Logger INFO  - Adding JSESSIONID E6DE158280E610F67F7834146F310E61 to request
+2020-09-11 00:46:42.319 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:46:42.323 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:46:42.325 Logger INFO  - Adding JSESSIONID E6DE158280E610F67F7834146F310E61 to request
+2020-09-11 00:46:42.389 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:46:42.393 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:46:42.394 Logger INFO  - Adding JSESSIONID E6DE158280E610F67F7834146F310E61 to request
+2020-09-11 00:49:49.774 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:49:49.800 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 00:49:50.823 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 00:49:51.178 Logger INFO  - Setting JSESSIONID to: 06BD437FCD9B6AA2F138A3F1C1FEE4F5
+2020-09-11 00:49:51.200 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:49:51.205 Logger INFO  - Adding JSESSIONID 06BD437FCD9B6AA2F138A3F1C1FEE4F5 to request
+2020-09-11 00:49:51.512 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:49:51.514 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:49:51.521 Logger INFO  - Adding JSESSIONID 06BD437FCD9B6AA2F138A3F1C1FEE4F5 to request
+2020-09-11 00:49:51.627 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:49:51.629 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:49:51.630 Logger INFO  - Adding JSESSIONID 06BD437FCD9B6AA2F138A3F1C1FEE4F5 to request
+2020-09-11 00:49:51.756 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:49:51.760 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:49:51.762 Logger INFO  - Adding JSESSIONID 06BD437FCD9B6AA2F138A3F1C1FEE4F5 to request
+2020-09-11 00:50:10.945 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 00:50:16.596 Logger INFO  - Cleaning up
+2020-09-11 00:50:18.559 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:50:18.560 Logger INFO  - Adding JSESSIONID 06BD437FCD9B6AA2F138A3F1C1FEE4F5 to request
+2020-09-11 00:50:21.862 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 00:50:24.682 Logger INFO  - Cleaning up
+2020-09-11 00:50:25.172 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:50:25.173 Logger INFO  - Adding JSESSIONID 06BD437FCD9B6AA2F138A3F1C1FEE4F5 to request
+2020-09-11 00:50:27.511 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 00:50:29.295 Logger INFO  - Cleaning up
+2020-09-11 00:50:29.773 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:51:55.369 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:51:55.392 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 00:51:56.421 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 00:51:56.889 Logger INFO  - Setting JSESSIONID to: 5B6C9E6B71BD6046595A249F68F3CBE0
+2020-09-11 00:51:56.917 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:51:56.923 Logger INFO  - Adding JSESSIONID 5B6C9E6B71BD6046595A249F68F3CBE0 to request
+2020-09-11 00:51:57.155 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:51:57.162 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:51:57.164 Logger INFO  - Adding JSESSIONID 5B6C9E6B71BD6046595A249F68F3CBE0 to request
+2020-09-11 00:51:57.333 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:51:57.335 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:51:57.336 Logger INFO  - Adding JSESSIONID 5B6C9E6B71BD6046595A249F68F3CBE0 to request
+2020-09-11 00:51:57.400 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:51:57.403 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:51:57.405 Logger INFO  - Adding JSESSIONID 5B6C9E6B71BD6046595A249F68F3CBE0 to request
+2020-09-11 00:51:57.466 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 00:51:57.470 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:51:57.472 Logger INFO  - Adding JSESSIONID 5B6C9E6B71BD6046595A249F68F3CBE0 to request
+2020-09-11 00:51:57.521 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 00:51:57.526 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:51:57.527 Logger INFO  - Adding JSESSIONID 5B6C9E6B71BD6046595A249F68F3CBE0 to request
+2020-09-11 00:51:57.579 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 00:51:57.585 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 00:51:57.586 Logger INFO  - Adding JSESSIONID 5B6C9E6B71BD6046595A249F68F3CBE0 to request
+2020-09-11 00:51:58.071 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 00:51:58.073 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 00:51:58.073 Logger INFO  - Adding JSESSIONID 5B6C9E6B71BD6046595A249F68F3CBE0 to request
+2020-09-11 00:51:58.099 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 00:51:58.101 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 00:51:58.102 Logger INFO  - Adding JSESSIONID 5B6C9E6B71BD6046595A249F68F3CBE0 to request
+2020-09-11 00:51:58.129 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 00:51:58.132 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 00:51:58.133 Logger INFO  - Adding JSESSIONID 5B6C9E6B71BD6046595A249F68F3CBE0 to request
+2020-09-11 00:51:58.157 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 00:51:58.171 Logger INFO  - Cleaning up
+2020-09-11 00:51:58.172 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 00:51:58.173 Logger INFO  - Adding JSESSIONID 5B6C9E6B71BD6046595A249F68F3CBE0 to request
+2020-09-11 00:51:58.206 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 00:51:58.225 Logger INFO  - Cleaning up
+2020-09-11 00:51:58.226 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 00:51:58.227 Logger INFO  - Adding JSESSIONID 5B6C9E6B71BD6046595A249F68F3CBE0 to request
+2020-09-11 00:51:58.249 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 00:51:58.273 Logger INFO  - Cleaning up
+2020-09-11 00:51:58.274 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:59:52.824 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 00:59:52.845 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 00:59:53.716 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 00:59:53.990 Logger INFO  - Setting JSESSIONID to: 111F568967DD9440E0A4D5F7AC81858C
+2020-09-11 00:59:54.009 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:59:54.013 Logger INFO  - Adding JSESSIONID 111F568967DD9440E0A4D5F7AC81858C to request
+2020-09-11 00:59:54.206 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:59:54.211 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:59:54.214 Logger INFO  - Adding JSESSIONID 111F568967DD9440E0A4D5F7AC81858C to request
+2020-09-11 00:59:54.307 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:59:54.315 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 00:59:54.316 Logger INFO  - Adding JSESSIONID 111F568967DD9440E0A4D5F7AC81858C to request
+2020-09-11 00:59:54.408 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 00:59:54.411 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:59:54.412 Logger INFO  - Adding JSESSIONID 111F568967DD9440E0A4D5F7AC81858C to request
+2020-09-11 00:59:54.484 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 00:59:54.492 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:59:54.496 Logger INFO  - Adding JSESSIONID 111F568967DD9440E0A4D5F7AC81858C to request
+2020-09-11 00:59:54.563 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 00:59:54.564 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 00:59:54.565 Logger INFO  - Adding JSESSIONID 111F568967DD9440E0A4D5F7AC81858C to request
+2020-09-11 00:59:54.601 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 00:59:54.604 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 00:59:54.605 Logger INFO  - Adding JSESSIONID 111F568967DD9440E0A4D5F7AC81858C to request
+2020-09-11 00:59:54.631 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 00:59:54.633 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 00:59:54.634 Logger INFO  - Adding JSESSIONID 111F568967DD9440E0A4D5F7AC81858C to request
+2020-09-11 00:59:54.670 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 00:59:54.673 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 00:59:54.674 Logger INFO  - Adding JSESSIONID 111F568967DD9440E0A4D5F7AC81858C to request
+2020-09-11 00:59:54.695 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 00:59:54.699 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 00:59:54.700 Logger INFO  - Adding JSESSIONID 111F568967DD9440E0A4D5F7AC81858C to request
+2020-09-11 00:59:54.720 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 00:59:54.748 Logger INFO  - Cleaning up
+2020-09-11 00:59:54.749 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 00:59:54.750 Logger INFO  - Adding JSESSIONID 111F568967DD9440E0A4D5F7AC81858C to request
+2020-09-11 00:59:54.793 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 00:59:54.810 Logger INFO  - Cleaning up
+2020-09-11 00:59:54.810 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 00:59:54.811 Logger INFO  - Adding JSESSIONID 111F568967DD9440E0A4D5F7AC81858C to request
+2020-09-11 00:59:54.829 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 00:59:54.848 Logger INFO  - Cleaning up
+2020-09-11 00:59:54.848 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:01:49.518 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:01:49.541 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 01:01:50.416 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 01:01:50.679 Logger INFO  - Setting JSESSIONID to: 29FF6CF53D99CC2D3A9035AC23BFD009
+2020-09-11 01:01:50.688 Logger INFO  - Adding JSESSIONID 29FF6CF53D99CC2D3A9035AC23BFD009 to request
+2020-09-11 01:01:50.699 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:01:50.921 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:01:50.958 Logger INFO  - Cleaning up
+2020-09-11 01:01:50.989 Logger INFO  - Adding JSESSIONID 29FF6CF53D99CC2D3A9035AC23BFD009 to request
+2020-09-11 01:01:50.990 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:01:51.044 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:01:51.068 Logger INFO  - Cleaning up
+2020-09-11 01:01:51.089 Logger INFO  - Adding JSESSIONID 29FF6CF53D99CC2D3A9035AC23BFD009 to request
+2020-09-11 01:01:51.090 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:01:51.160 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:01:51.185 Logger INFO  - Cleaning up
+2020-09-11 01:01:51.207 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:01:51.230 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 01:01:51.247 Logger INFO  - Cleaning up
+2020-09-11 01:01:51.248 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:01:51.266 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 01:01:51.285 Logger INFO  - Cleaning up
+2020-09-11 01:01:51.287 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:01:51.306 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 01:01:51.325 Logger INFO  - Cleaning up
+2020-09-11 01:01:51.326 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:01:51.339 Logger INFO  - updateCreatedIssueTest test failed.
+2020-09-11 01:01:51.351 Logger INFO  - Cleaning up
+2020-09-11 01:01:51.351 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:01:51.363 Logger INFO  - updateCreatedIssueTest test failed.
+2020-09-11 01:01:51.375 Logger INFO  - Cleaning up
+2020-09-11 01:01:51.376 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:01:51.387 Logger INFO  - updateCreatedIssueTest test failed.
+2020-09-11 01:01:51.407 Logger INFO  - Cleaning up
+2020-09-11 01:01:51.408 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:01:51.417 Logger INFO  - deleteCreatedBugTest test failed.
+2020-09-11 01:01:51.430 Logger INFO  - Cleaning up
+2020-09-11 01:01:51.441 Logger INFO  - Cleaning up
+2020-09-11 01:01:51.442 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:01:51.451 Logger INFO  - deleteCreatedBugTest test failed.
+2020-09-11 01:01:51.465 Logger INFO  - Cleaning up
+2020-09-11 01:01:51.479 Logger INFO  - Cleaning up
+2020-09-11 01:01:51.480 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:01:51.491 Logger INFO  - deleteCreatedBugTest test failed.
+2020-09-11 01:01:51.503 Logger INFO  - Cleaning up
+2020-09-11 01:01:51.512 Logger INFO  - Cleaning up
+2020-09-11 01:01:51.513 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:02:38.420 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:02:38.443 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 01:02:39.314 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 01:02:39.579 Logger INFO  - Setting JSESSIONID to: CF48D5E7D8600187CECC561F19A4CD98
+2020-09-11 01:02:39.600 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:02:39.604 Logger INFO  - Adding JSESSIONID CF48D5E7D8600187CECC561F19A4CD98 to request
+2020-09-11 01:02:39.751 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:02:39.787 Logger INFO  - Cleaning up
+2020-09-11 01:02:39.815 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:02:39.815 Logger INFO  - Adding JSESSIONID CF48D5E7D8600187CECC561F19A4CD98 to request
+2020-09-11 01:02:39.874 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:02:39.896 Logger INFO  - Cleaning up
+2020-09-11 01:02:39.916 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:02:39.918 Logger INFO  - Adding JSESSIONID CF48D5E7D8600187CECC561F19A4CD98 to request
+2020-09-11 01:02:39.976 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:02:40.000 Logger INFO  - Cleaning up
+2020-09-11 01:02:40.017 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:02:40.019 Logger INFO  - Adding JSESSIONID CF48D5E7D8600187CECC561F19A4CD98 to request
+2020-09-11 01:02:40.049 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 01:02:40.067 Logger INFO  - Cleaning up
+2020-09-11 01:02:40.068 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:02:40.068 Logger INFO  - Adding JSESSIONID CF48D5E7D8600187CECC561F19A4CD98 to request
+2020-09-11 01:02:40.087 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 01:02:40.110 Logger INFO  - Cleaning up
+2020-09-11 01:02:40.111 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:02:40.112 Logger INFO  - Adding JSESSIONID CF48D5E7D8600187CECC561F19A4CD98 to request
+2020-09-11 01:02:40.132 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 01:02:40.152 Logger INFO  - Cleaning up
+2020-09-11 01:02:40.152 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:02:40.153 Logger INFO  - Adding JSESSIONID CF48D5E7D8600187CECC561F19A4CD98 to request
+2020-09-11 01:02:40.171 Logger INFO  - updateCreatedIssueTest test failed.
+2020-09-11 01:02:40.188 Logger INFO  - Cleaning up
+2020-09-11 01:02:40.189 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:02:40.189 Logger INFO  - Adding JSESSIONID CF48D5E7D8600187CECC561F19A4CD98 to request
+2020-09-11 01:02:40.206 Logger INFO  - updateCreatedIssueTest test failed.
+2020-09-11 01:02:40.219 Logger INFO  - Cleaning up
+2020-09-11 01:02:40.220 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:02:40.221 Logger INFO  - Adding JSESSIONID CF48D5E7D8600187CECC561F19A4CD98 to request
+2020-09-11 01:02:40.230 Logger INFO  - updateCreatedIssueTest test failed.
+2020-09-11 01:02:40.247 Logger INFO  - Cleaning up
+2020-09-11 01:02:40.248 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:02:40.249 Logger INFO  - Adding JSESSIONID CF48D5E7D8600187CECC561F19A4CD98 to request
+2020-09-11 01:02:40.259 Logger INFO  - deleteCreatedBugTest test failed.
+2020-09-11 01:02:40.274 Logger INFO  - Cleaning up
+2020-09-11 01:02:40.298 Logger INFO  - Cleaning up
+2020-09-11 01:02:40.299 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:02:40.299 Logger INFO  - Adding JSESSIONID CF48D5E7D8600187CECC561F19A4CD98 to request
+2020-09-11 01:02:40.311 Logger INFO  - deleteCreatedBugTest test failed.
+2020-09-11 01:02:40.325 Logger INFO  - Cleaning up
+2020-09-11 01:02:40.334 Logger INFO  - Cleaning up
+2020-09-11 01:02:40.335 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:02:40.335 Logger INFO  - Adding JSESSIONID CF48D5E7D8600187CECC561F19A4CD98 to request
+2020-09-11 01:02:40.345 Logger INFO  - deleteCreatedBugTest test failed.
+2020-09-11 01:02:40.360 Logger INFO  - Cleaning up
+2020-09-11 01:02:40.374 Logger INFO  - Cleaning up
+2020-09-11 01:02:40.374 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:03:32.112 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:03:32.133 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 01:03:33.035 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 01:03:33.273 Logger INFO  - Setting JSESSIONID to: 0A3DC236D859EE07912DD681EF56F53F
+2020-09-11 01:03:33.290 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:03:33.294 Logger INFO  - Adding JSESSIONID 0A3DC236D859EE07912DD681EF56F53F to request
+2020-09-11 01:03:33.449 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:03:33.454 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:03:33.456 Logger INFO  - Adding JSESSIONID 0A3DC236D859EE07912DD681EF56F53F to request
+2020-09-11 01:03:33.551 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:03:33.555 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:03:33.558 Logger INFO  - Adding JSESSIONID 0A3DC236D859EE07912DD681EF56F53F to request
+2020-09-11 01:03:33.616 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:03:33.617 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:03:33.618 Logger INFO  - Adding JSESSIONID 0A3DC236D859EE07912DD681EF56F53F to request
+2020-09-11 01:03:33.669 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 01:03:33.671 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:03:33.672 Logger INFO  - Adding JSESSIONID 0A3DC236D859EE07912DD681EF56F53F to request
+2020-09-11 01:03:33.709 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 01:03:33.711 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:03:33.713 Logger INFO  - Adding JSESSIONID 0A3DC236D859EE07912DD681EF56F53F to request
+2020-09-11 01:03:33.757 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 01:03:33.760 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:03:33.761 Logger INFO  - Adding JSESSIONID 0A3DC236D859EE07912DD681EF56F53F to request
+2020-09-11 01:03:33.801 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 01:03:33.804 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:03:33.804 Logger INFO  - Adding JSESSIONID 0A3DC236D859EE07912DD681EF56F53F to request
+2020-09-11 01:03:33.831 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 01:03:33.834 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:03:33.835 Logger INFO  - Adding JSESSIONID 0A3DC236D859EE07912DD681EF56F53F to request
+2020-09-11 01:03:33.859 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 01:03:33.862 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:03:33.864 Logger INFO  - Adding JSESSIONID 0A3DC236D859EE07912DD681EF56F53F to request
+2020-09-11 01:03:33.889 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 01:03:33.902 Logger INFO  - Cleaning up
+2020-09-11 01:03:33.903 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:03:33.905 Logger INFO  - Adding JSESSIONID 0A3DC236D859EE07912DD681EF56F53F to request
+2020-09-11 01:03:33.948 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 01:03:33.964 Logger INFO  - Cleaning up
+2020-09-11 01:03:33.964 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:03:33.965 Logger INFO  - Adding JSESSIONID 0A3DC236D859EE07912DD681EF56F53F to request
+2020-09-11 01:03:34.014 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 01:03:34.047 Logger INFO  - Cleaning up
+2020-09-11 01:03:34.048 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:04:28.216 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:04:28.238 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 01:04:29.102 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 01:04:29.370 Logger INFO  - Setting JSESSIONID to: 8FFD9368386B2DCAE25140DDB2F519B9
+2020-09-11 01:04:29.381 Logger INFO  - Adding JSESSIONID 8FFD9368386B2DCAE25140DDB2F519B9 to request
+2020-09-11 01:04:29.392 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:04:29.564 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:04:29.567 Logger INFO  - Adding JSESSIONID 8FFD9368386B2DCAE25140DDB2F519B9 to request
+2020-09-11 01:04:29.568 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:04:29.635 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:04:29.638 Logger INFO  - Adding JSESSIONID 8FFD9368386B2DCAE25140DDB2F519B9 to request
+2020-09-11 01:04:29.639 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:04:29.717 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:04:29.719 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:04:29.767 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 01:04:29.770 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:04:29.816 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 01:04:29.818 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:04:29.871 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 01:04:29.872 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:04:29.904 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 01:04:29.906 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:04:29.927 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 01:04:29.930 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:04:29.955 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 01:04:29.956 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:04:29.981 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 01:04:29.998 Logger INFO  - Cleaning up
+2020-09-11 01:04:29.999 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:04:30.041 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 01:04:30.064 Logger INFO  - Cleaning up
+2020-09-11 01:04:30.065 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:04:30.084 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 01:04:30.112 Logger INFO  - Cleaning up
+2020-09-11 01:04:30.113 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:11:04.297 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:11:04.319 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 01:11:05.252 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 01:11:05.557 Logger INFO  - Setting JSESSIONID to: D2D7D740E834EB0CC094BCDEC38E964C
+2020-09-11 01:11:05.567 Logger INFO  - Adding JSESSIONID D2D7D740E834EB0CC094BCDEC38E964C to request
+2020-09-11 01:11:05.581 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:11:05.733 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:11:05.748 Logger INFO  - Adding JSESSIONID D2D7D740E834EB0CC094BCDEC38E964C to request
+2020-09-11 01:11:05.750 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:11:05.833 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:11:05.838 Logger INFO  - Adding JSESSIONID D2D7D740E834EB0CC094BCDEC38E964C to request
+2020-09-11 01:11:05.840 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:11:05.916 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:11:05.923 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:11:05.925 Logger INFO  - Skipped test getCreatedIssueTest
+2020-09-11 01:11:05.930 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:11:05.933 Logger INFO  - Skipped test getCreatedIssueTest
+2020-09-11 01:11:05.937 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:11:05.939 Logger INFO  - Skipped test getCreatedIssueTest
+2020-09-11 01:11:05.942 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:11:05.943 Logger INFO  - Skipped test updateCreatedIssueTest
+2020-09-11 01:11:05.945 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:11:05.946 Logger INFO  - Skipped test updateCreatedIssueTest
+2020-09-11 01:11:05.948 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:11:05.949 Logger INFO  - Skipped test updateCreatedIssueTest
+2020-09-11 01:11:05.978 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:11:05.980 Logger INFO  - Skipped test deleteCreatedBugTest
+2020-09-11 01:11:05.991 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:11:05.992 Logger INFO  - Skipped test deleteCreatedBugTest
+2020-09-11 01:11:06.000 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:11:06.002 Logger INFO  - Skipped test deleteCreatedBugTest
+2020-09-11 01:11:06.011 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:12:20.639 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:12:20.664 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 01:12:21.554 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 01:12:21.822 Logger INFO  - Setting JSESSIONID to: C8861435E06B0A32E3962375F678FD17
+2020-09-11 01:12:21.833 Logger INFO  - Adding JSESSIONID C8861435E06B0A32E3962375F678FD17 to request
+2020-09-11 01:12:21.846 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:12:22.000 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:12:22.006 Logger INFO  - Adding JSESSIONID C8861435E06B0A32E3962375F678FD17 to request
+2020-09-11 01:12:22.007 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:12:22.074 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:12:22.077 Logger INFO  - Adding JSESSIONID C8861435E06B0A32E3962375F678FD17 to request
+2020-09-11 01:12:22.078 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:12:22.130 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:12:22.132 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:12:22.176 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 01:12:22.178 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:12:22.233 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 01:12:22.235 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:12:22.263 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 01:12:22.266 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:12:22.297 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 01:12:22.298 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:12:22.320 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 01:12:22.324 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:12:22.345 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 01:12:22.348 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:12:22.369 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 01:12:22.393 Logger INFO  - Cleaning up
+2020-09-11 01:12:22.394 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:12:22.420 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 01:12:22.441 Logger INFO  - Cleaning up
+2020-09-11 01:12:22.442 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:12:22.477 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 01:12:22.508 Logger INFO  - Cleaning up
+2020-09-11 01:12:22.508 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:17:50.539 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:17:50.561 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 01:17:51.441 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 01:17:51.690 Logger INFO  - Setting JSESSIONID to: 58B43D141666483A1ED6E75A5A9941BB
+2020-09-11 01:17:51.698 Logger INFO  - Adding JSESSIONID 58B43D141666483A1ED6E75A5A9941BB to request
+2020-09-11 01:17:51.709 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:17:51.851 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:17:51.856 Logger INFO  - Adding JSESSIONID 58B43D141666483A1ED6E75A5A9941BB to request
+2020-09-11 01:17:51.858 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:17:51.927 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:17:51.929 Logger INFO  - Adding JSESSIONID 58B43D141666483A1ED6E75A5A9941BB to request
+2020-09-11 01:17:51.930 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:17:52.153 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:17:52.156 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:17:52.216 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 01:17:52.220 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:17:52.267 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 01:17:52.271 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:17:52.303 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 01:17:52.308 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:17:52.330 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 01:17:52.331 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:17:52.351 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 01:17:52.353 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:17:52.372 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 01:17:52.374 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:17:52.392 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 01:17:52.406 Logger INFO  - Cleaning up
+2020-09-11 01:17:52.407 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:17:52.435 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 01:17:52.449 Logger INFO  - Cleaning up
+2020-09-11 01:17:52.450 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:17:52.466 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 01:17:52.484 Logger INFO  - Cleaning up
+2020-09-11 01:17:52.484 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:24:16.063 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:24:16.088 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 01:24:16.996 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 01:24:17.286 Logger INFO  - Setting JSESSIONID to: B47A13CF5EAEFB5C7D7005B54BD48DA6
+2020-09-11 01:24:17.297 Logger INFO  - Adding JSESSIONID B47A13CF5EAEFB5C7D7005B54BD48DA6 to request
+2020-09-11 01:24:17.309 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:24:17.505 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:24:17.512 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:24:17.578 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 01:24:17.580 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:24:17.604 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 01:24:17.606 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:24:17.622 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 01:24:17.640 Logger INFO  - Cleaning up
+2020-09-11 01:24:17.641 Logger INFO  - Adding JSESSIONID B47A13CF5EAEFB5C7D7005B54BD48DA6 to request
+2020-09-11 01:24:17.642 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:24:17.688 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:24:17.690 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:24:17.724 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 01:24:17.726 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:24:17.746 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 01:24:17.750 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:24:17.772 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 01:24:17.786 Logger INFO  - Cleaning up
+2020-09-11 01:24:17.787 Logger INFO  - Adding JSESSIONID B47A13CF5EAEFB5C7D7005B54BD48DA6 to request
+2020-09-11 01:24:17.788 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:24:17.844 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:24:17.847 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:24:17.881 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 01:24:17.883 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:24:17.906 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 01:24:17.908 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:24:17.927 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 01:24:17.957 Logger INFO  - Cleaning up
+2020-09-11 01:24:17.958 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:25:19.783 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:25:19.805 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 01:25:20.738 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 01:25:21.024 Logger INFO  - Setting JSESSIONID to: 2CE892ECD41769AAF811F4483DA63CF3
+2020-09-11 01:25:21.033 Logger INFO  - Adding JSESSIONID 2CE892ECD41769AAF811F4483DA63CF3 to request
+2020-09-11 01:25:21.045 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:25:21.217 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:25:21.221 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:25:21.276 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 01:25:21.279 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:25:21.306 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 01:25:21.308 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:25:21.331 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 01:25:21.348 Logger INFO  - Cleaning up
+2020-09-11 01:25:21.349 Logger INFO  - Adding JSESSIONID 2CE892ECD41769AAF811F4483DA63CF3 to request
+2020-09-11 01:25:21.350 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:25:21.487 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:25:21.489 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:25:21.528 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 01:25:21.530 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:25:21.557 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 01:25:21.561 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:25:21.587 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 01:25:21.618 Logger INFO  - Cleaning up
+2020-09-11 01:25:21.619 Logger INFO  - Adding JSESSIONID 2CE892ECD41769AAF811F4483DA63CF3 to request
+2020-09-11 01:25:21.620 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:25:21.678 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:25:21.679 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:25:21.721 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 01:25:21.723 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:25:21.761 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 01:25:21.763 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-11 01:25:21.780 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-11 01:25:21.802 Logger INFO  - Cleaning up
+2020-09-11 01:25:21.803 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner

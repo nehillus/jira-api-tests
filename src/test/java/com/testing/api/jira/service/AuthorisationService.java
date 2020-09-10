@@ -1,6 +1,8 @@
 package com.testing.api.jira.service;
 
+import com.testing.api.jira.api.ApiUrl;
 import com.testing.api.jira.entities.User;
+import com.testing.api.jira.logger.Logger;
 import com.testing.api.jira.propertiesloader.PropertiesLoader;
 
 import io.restassured.RestAssured;
@@ -16,8 +18,11 @@ public class AuthorisationService extends BaseService{
 	
 	public void authorizeUser() {
 		if (PropertiesLoader.getProperties().getProperty("JSESSIONID") == null) {
+			Logger.info("Sending authorisation request to " + ApiUrl.AUTHORISATION.getUrl());
 			response = RestAssured.given().contentType(ContentType.JSON).body(new User())
-					.post(PropertiesLoader.getProperties().getProperty("endpoints.authorisation"));
+					.post(ApiUrl.AUTHORISATION.getUrl());
+			Logger.info("Response status: " + response.getStatusLine());
+			Logger.info("Setting JSESSIONID to: " + extractJsessionId(response));
 			setUserSessionCookie(response);
 		}
 	}

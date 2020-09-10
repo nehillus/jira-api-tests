@@ -11,9 +11,9 @@ public class IssueFactory {
 				
 	}
 
-	public static Issue createEpic() {
+	public static Issue createTask() {
 		return new Issue.IssueBuilder()
-				.withFields(FieldsFactory.fieldsForEpic())
+				.withFields(FieldsFactory.fieldsForTask())
 				.build();
 	}
 	

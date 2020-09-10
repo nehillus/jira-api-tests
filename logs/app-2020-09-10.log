@@ -1,0 +1,101 @@
+2020-09-10 22:09:25.805 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-10 22:09:25.834 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-10 22:09:26.750 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-10 22:09:27.021 Logger INFO  - Setting JSESSIONID to: 4A0BD12AAECAD965BF0EE9C45AD1DC3F
+2020-09-10 22:09:27.038 Logger INFO  - Beginning test execution for method createNewBugTest
+2020-09-10 22:09:27.042 Logger INFO  - Adding JSESSIONID 4A0BD12AAECAD965BF0EE9C45AD1DC3F to request
+2020-09-10 22:09:27.594 Logger INFO  - createNewBugTest method was completed successfully.
+2020-09-10 22:09:27.599 Logger INFO  - Beginning test execution for method createNewBugTest
+2020-09-10 22:09:27.601 Logger INFO  - Adding JSESSIONID 4A0BD12AAECAD965BF0EE9C45AD1DC3F to request
+2020-09-10 22:09:27.812 Logger INFO  - createNewBugTest test failed.
+2020-09-10 22:09:27.826 Logger INFO  - Beginning test execution for method createNewBugTest
+2020-09-10 22:09:27.829 Logger INFO  - Adding JSESSIONID 4A0BD12AAECAD965BF0EE9C45AD1DC3F to request
+2020-09-10 22:09:28.015 Logger INFO  - createNewBugTest method was completed successfully.
+2020-09-10 22:09:28.037 Logger INFO  - Beginning test execution for method getCreatedBugTest
+2020-09-10 22:09:28.039 Logger INFO  - Adding JSESSIONID 4A0BD12AAECAD965BF0EE9C45AD1DC3F to request
+2020-09-10 22:09:28.232 Logger INFO  - getCreatedBugTest method was completed successfully.
+2020-09-10 22:09:28.233 Logger INFO  - Beginning test execution for method getCreatedBugTest
+2020-09-10 22:09:28.235 Logger INFO  - Skipped test getCreatedBugTest
+2020-09-10 22:09:28.236 Logger INFO  - Beginning test execution for method getCreatedBugTest
+2020-09-10 22:09:28.237 Logger INFO  - Adding JSESSIONID 4A0BD12AAECAD965BF0EE9C45AD1DC3F to request
+2020-09-10 22:09:28.294 Logger INFO  - getCreatedBugTest method was completed successfully.
+2020-09-10 22:09:28.296 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-10 22:09:28.297 Logger INFO  - Adding JSESSIONID 4A0BD12AAECAD965BF0EE9C45AD1DC3F to request
+2020-09-10 22:09:28.328 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-10 22:09:28.363 Logger INFO  - Cleaning up
+2020-09-10 22:09:28.364 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-10 22:09:28.366 Logger INFO  - Skipped test deleteCreatedBugTest
+2020-09-10 22:09:28.390 Logger INFO  - Cleaning up
+2020-09-10 22:09:28.391 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-10 22:09:28.392 Logger INFO  - Adding JSESSIONID 4A0BD12AAECAD965BF0EE9C45AD1DC3F to request
+2020-09-10 22:09:28.425 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-10 22:09:28.468 Logger INFO  - Cleaning up
+2020-09-10 22:09:28.468 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-10 22:09:55.278 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-10 22:09:55.299 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-10 22:09:56.175 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-10 22:09:56.414 Logger INFO  - Setting JSESSIONID to: B4C937C7DD05314A893CF04E665EB4EB
+2020-09-10 22:09:56.432 Logger INFO  - Beginning test execution for method createNewBugTest
+2020-09-10 22:09:56.436 Logger INFO  - Adding JSESSIONID B4C937C7DD05314A893CF04E665EB4EB to request
+2020-09-10 22:09:56.578 Logger INFO  - createNewBugTest method was completed successfully.
+2020-09-10 22:09:56.588 Logger INFO  - Beginning test execution for method getCreatedBugTest
+2020-09-10 22:09:56.590 Logger INFO  - Adding JSESSIONID B4C937C7DD05314A893CF04E665EB4EB to request
+2020-09-10 22:09:56.698 Logger INFO  - getCreatedBugTest method was completed successfully.
+2020-09-10 22:09:56.700 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-10 22:09:56.704 Logger INFO  - Adding JSESSIONID B4C937C7DD05314A893CF04E665EB4EB to request
+2020-09-10 22:09:56.738 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-10 22:09:56.760 Logger INFO  - Cleaning up
+2020-09-10 22:09:56.761 Logger INFO  - Beginning test execution for method createNewBugTest
+2020-09-10 22:09:56.762 Logger INFO  - Adding JSESSIONID B4C937C7DD05314A893CF04E665EB4EB to request
+2020-09-10 22:09:56.811 Logger INFO  - createNewBugTest test failed.
+2020-09-10 22:09:56.818 Logger INFO  - Beginning test execution for method getCreatedBugTest
+2020-09-10 22:09:56.822 Logger INFO  - Skipped test getCreatedBugTest
+2020-09-10 22:09:56.825 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-10 22:09:56.827 Logger INFO  - Skipped test deleteCreatedBugTest
+2020-09-10 22:09:56.856 Logger INFO  - Cleaning up
+2020-09-10 22:09:56.858 Logger INFO  - Beginning test execution for method createNewBugTest
+2020-09-10 22:09:56.859 Logger INFO  - Adding JSESSIONID B4C937C7DD05314A893CF04E665EB4EB to request
+2020-09-10 22:09:56.943 Logger INFO  - createNewBugTest method was completed successfully.
+2020-09-10 22:09:56.944 Logger INFO  - Beginning test execution for method getCreatedBugTest
+2020-09-10 22:09:56.945 Logger INFO  - Adding JSESSIONID B4C937C7DD05314A893CF04E665EB4EB to request
+2020-09-10 22:09:56.992 Logger INFO  - getCreatedBugTest method was completed successfully.
+2020-09-10 22:09:56.994 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-10 22:09:56.997 Logger INFO  - Adding JSESSIONID B4C937C7DD05314A893CF04E665EB4EB to request
+2020-09-10 22:09:57.060 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-10 22:09:57.081 Logger INFO  - Cleaning up
+2020-09-10 22:09:57.082 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-10 23:11:10.566 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-10 23:11:10.593 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-10 23:11:11.507 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-10 23:11:11.775 Logger INFO  - Setting JSESSIONID to: F83ADD8744804E12A5CEA1413BE67E9E
+2020-09-10 23:11:11.796 Logger INFO  - Beginning test execution for method createNewBugTest
+2020-09-10 23:11:11.802 Logger INFO  - Adding JSESSIONID F83ADD8744804E12A5CEA1413BE67E9E to request
+2020-09-10 23:11:12.057 Logger INFO  - createNewBugTest method was completed successfully.
+2020-09-10 23:11:12.065 Logger INFO  - Beginning test execution for method createNewBugTest
+2020-09-10 23:11:12.067 Logger INFO  - Adding JSESSIONID F83ADD8744804E12A5CEA1413BE67E9E to request
+2020-09-10 23:11:12.170 Logger INFO  - createNewBugTest method was completed successfully.
+2020-09-10 23:11:12.174 Logger INFO  - Beginning test execution for method createNewBugTest
+2020-09-10 23:11:12.175 Logger INFO  - Adding JSESSIONID F83ADD8744804E12A5CEA1413BE67E9E to request
+2020-09-10 23:11:12.273 Logger INFO  - createNewBugTest method was completed successfully.
+2020-09-10 23:11:12.277 Logger INFO  - Beginning test execution for method getCreatedBugTest
+2020-09-10 23:11:12.278 Logger INFO  - Adding JSESSIONID F83ADD8744804E12A5CEA1413BE67E9E to request
+2020-09-10 23:11:12.335 Logger INFO  - getCreatedBugTest method was completed successfully.
+2020-09-10 23:11:12.336 Logger INFO  - Beginning test execution for method getCreatedBugTest
+2020-09-10 23:11:12.337 Logger INFO  - Adding JSESSIONID F83ADD8744804E12A5CEA1413BE67E9E to request
+2020-09-10 23:11:12.372 Logger INFO  - getCreatedBugTest method was completed successfully.
+2020-09-10 23:11:12.373 Logger INFO  - Beginning test execution for method getCreatedBugTest
+2020-09-10 23:11:12.375 Logger INFO  - Adding JSESSIONID F83ADD8744804E12A5CEA1413BE67E9E to request
+2020-09-10 23:11:12.413 Logger INFO  - getCreatedBugTest method was completed successfully.
+2020-09-10 23:11:12.415 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-10 23:11:12.417 Logger INFO  - Adding JSESSIONID F83ADD8744804E12A5CEA1413BE67E9E to request
+2020-09-10 23:11:12.438 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-10 23:11:12.456 Logger INFO  - Cleaning up
+2020-09-10 23:11:12.457 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-10 23:11:12.458 Logger INFO  - Adding JSESSIONID F83ADD8744804E12A5CEA1413BE67E9E to request
+2020-09-10 23:11:12.483 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-10 23:11:12.496 Logger INFO  - Cleaning up
+2020-09-10 23:11:12.497 Logger INFO  - Beginning test execution for method deleteCreatedBugTest
+2020-09-10 23:11:12.497 Logger INFO  - Adding JSESSIONID F83ADD8744804E12A5CEA1413BE67E9E to request
+2020-09-10 23:11:12.528 Logger INFO  - deleteCreatedBugTest method was completed successfully.
+2020-09-10 23:11:12.555 Logger INFO  - Cleaning up
+2020-09-10 23:11:12.555 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner

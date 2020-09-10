@@ -11,7 +11,7 @@ public class PropertiesLoader {
 	public static Properties getProperties() {
 		if (properties == null) {
 			try {
-				FileInputStream fis = new FileInputStream("src\\test\\java\\resources\\project.properties");
+				FileInputStream fis = new FileInputStream("src\\test\\resources\\project.properties");
 				properties = new Properties();
 				properties.load(fis);
 			} catch (IOException e) {
