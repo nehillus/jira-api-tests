@@ -3,6 +3,9 @@ package com.testing.api.jira.service;
 import com.testing.api.jira.logger.Logger;
 import com.testing.api.jira.propertiesloader.PropertiesLoader;
 
+import io.restassured.RestAssured;
+import io.restassured.http.ContentType;
+
 public class RequestBuilderService extends BaseService{
 	
 	public void addSessionCookieToRequest() {
@@ -15,8 +18,11 @@ public class RequestBuilderService extends BaseService{
 		specification.body("");
 	}
 	
+	public void resetRestAssured() {
+		specification = RestAssured.given().contentType(ContentType.JSON);
+	}
+	
 	public void addBodyToRequest(Object body) {
-		specification
-		.body(body);
+		specification.body(body);
 	}
 }

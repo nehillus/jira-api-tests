@@ -825,3 +825,1317 @@
 2020-09-11 01:25:21.780 Logger INFO  - deleteCreatedBugTest method was completed successfully.
 2020-09-11 01:25:21.802 Logger INFO  - Cleaning up
 2020-09-11 01:25:21.803 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:40:47.862 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:40:47.884 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 01:40:48.785 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 01:40:49.064 Logger INFO  - Setting JSESSIONID to: 6CEDB3375A05013762C98FDFE87E60ED
+2020-09-11 01:40:49.073 Logger INFO  - Adding JSESSIONID 6CEDB3375A05013762C98FDFE87E60ED to request
+2020-09-11 01:40:49.085 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:40:49.261 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:40:49.266 Logger INFO  - Beginning test execution for method archiveCreatedIssueTest
+2020-09-11 01:40:50.466 Logger INFO  - archiveCreatedIssueTest method was completed successfully.
+2020-09-11 01:40:50.468 Logger INFO  - Adding JSESSIONID 6CEDB3375A05013762C98FDFE87E60ED to request
+2020-09-11 01:40:50.469 Logger INFO  - Beginning test execution for method archiveCreatedIssueTest
+2020-09-11 01:40:50.503 Logger INFO  - archiveCreatedIssueTest test failed.
+2020-09-11 01:40:50.507 Logger INFO  - Adding JSESSIONID 6CEDB3375A05013762C98FDFE87E60ED to request
+2020-09-11 01:40:50.509 Logger INFO  - Beginning test execution for method archiveCreatedIssueTest
+2020-09-11 01:40:50.529 Logger INFO  - archiveCreatedIssueTest test failed.
+2020-09-11 01:40:50.533 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:40:50.588 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:40:50.591 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 01:40:50.669 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 01:40:50.672 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:40:50.708 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 01:40:50.710 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:40:50.774 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 01:40:50.777 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 01:40:50.806 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 01:40:50.809 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:40:50.839 Logger INFO  - updateCreatedIssueTest test failed.
+2020-09-11 01:40:50.841 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:40:50.858 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 01:40:50.859 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 01:40:50.876 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 01:40:50.879 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 01:40:50.890 Logger INFO  - deleteCreatedIssueTest test failed.
+2020-09-11 01:40:50.907 Logger INFO  - Cleaning up
+2020-09-11 01:40:50.924 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 01:40:50.957 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 01:40:50.970 Logger INFO  - Cleaning up
+2020-09-11 01:40:50.970 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 01:40:51.012 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 01:40:51.024 Logger INFO  - Cleaning up
+2020-09-11 01:40:51.024 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:45:49.911 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:45:49.936 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 01:45:50.818 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 01:45:51.073 Logger INFO  - Setting JSESSIONID to: 745F61B2742A256F0EAE28E7FE2E355F
+2020-09-11 01:45:51.082 Logger INFO  - Adding JSESSIONID 745F61B2742A256F0EAE28E7FE2E355F to request
+2020-09-11 01:45:51.094 Logger INFO  - Beginning test execution for method archiveIssueTest
+2020-09-11 01:45:51.470 Logger INFO  - archiveIssueTest method was completed successfully.
+2020-09-11 01:45:51.497 Logger INFO  - Cleaning up
+2020-09-11 01:45:51.520 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:49:36.886 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 01:49:36.910 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 01:49:37.837 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 01:49:38.101 Logger INFO  - Setting JSESSIONID to: 616C4C023498A9D3D7DE90AA32AB7B99
+2020-09-11 01:49:38.110 Logger INFO  - Adding JSESSIONID 616C4C023498A9D3D7DE90AA32AB7B99 to request
+2020-09-11 01:49:38.122 Logger INFO  - Beginning test execution for method archiveIssueTest
+2020-09-11 01:49:38.402 Logger INFO  - archiveIssueTest method was completed successfully.
+2020-09-11 01:49:38.436 Logger INFO  - Cleaning up
+2020-09-11 01:49:38.453 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 08:48:01.871 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 08:48:01.923 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 08:48:03.050 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 08:48:03.403 Logger INFO  - Setting JSESSIONID to: 17D9775D98BBB4916433DC209BC391F7
+2020-09-11 08:48:03.413 Logger INFO  - Adding JSESSIONID 17D9775D98BBB4916433DC209BC391F7 to request
+2020-09-11 08:48:03.444 Logger INFO  - Beginning test execution for method archiveIssueTest
+2020-09-11 08:48:03.467 Logger INFO  - Request body: io.restassured.internal.RequestSpecificationImpl@47ec7422
+2020-09-11 08:48:03.468 Logger INFO  - Request headers: io.restassured.internal.RequestSpecificationImpl@47ec7422
+2020-09-11 08:48:03.469 Logger INFO  - Request cookies: io.restassured.internal.RequestSpecificationImpl@47ec7422
+2020-09-11 08:48:03.469 Logger INFO  - Request parameters: io.restassured.internal.RequestSpecificationImpl@47ec7422
+2020-09-11 08:48:05.866 Logger INFO  - Executing DELETE to /rest/api/2/issue/10437/archive/
+2020-09-11 08:48:05.866 Logger INFO  - Request body: io.restassured.internal.RequestSpecificationImpl@47ec7422
+2020-09-11 08:48:05.867 Logger INFO  - Request headers: io.restassured.internal.RequestSpecificationImpl@47ec7422
+2020-09-11 08:48:05.867 Logger INFO  - Request cookies: io.restassured.internal.RequestSpecificationImpl@47ec7422
+2020-09-11 08:48:05.867 Logger INFO  - Request parameters: io.restassured.internal.RequestSpecificationImpl@47ec7422
+2020-09-11 08:48:05.942 Logger INFO  - archiveIssueTest method was completed successfully.
+2020-09-11 08:48:05.945 Logger INFO  - Executing GET to /rest/api/2/issue/10437/
+2020-09-11 08:48:05.946 Logger INFO  - Request body: io.restassured.internal.RequestSpecificationImpl@47ec7422
+2020-09-11 08:48:05.947 Logger INFO  - Request headers: io.restassured.internal.RequestSpecificationImpl@47ec7422
+2020-09-11 08:48:05.947 Logger INFO  - Request cookies: io.restassured.internal.RequestSpecificationImpl@47ec7422
+2020-09-11 08:48:05.947 Logger INFO  - Request parameters: io.restassured.internal.RequestSpecificationImpl@47ec7422
+2020-09-11 08:48:06.149 Logger INFO  - Removing issue with id: 10437
+2020-09-11 08:48:06.150 Logger INFO  - Executing DELETE to /rest/api/2/issue/10437/
+2020-09-11 08:48:06.151 Logger INFO  - Request body: io.restassured.internal.RequestSpecificationImpl@47ec7422
+2020-09-11 08:48:06.151 Logger INFO  - Request headers: io.restassured.internal.RequestSpecificationImpl@47ec7422
+2020-09-11 08:48:06.151 Logger INFO  - Request cookies: io.restassured.internal.RequestSpecificationImpl@47ec7422
+2020-09-11 08:48:06.152 Logger INFO  - Request parameters: io.restassured.internal.RequestSpecificationImpl@47ec7422
+2020-09-11 08:48:06.176 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 08:50:26.947 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 08:50:26.971 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 08:50:27.898 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 08:50:28.147 Logger INFO  - Setting JSESSIONID to: 9A8F433A14DBA2F9B8A4CE69AD4B1702
+2020-09-11 08:50:28.156 Logger INFO  - Adding JSESSIONID 9A8F433A14DBA2F9B8A4CE69AD4B1702 to request
+2020-09-11 08:50:28.170 Logger INFO  - Beginning test execution for method archiveIssueTest
+2020-09-11 08:50:28.370 Logger INFO  - Executing DELETE to /rest/api/2/issue/10438/archive/
+2020-09-11 08:50:28.442 Logger INFO  - archiveIssueTest method was completed successfully.
+2020-09-11 08:50:28.443 Logger INFO  - Executing GET to /rest/api/2/issue/10438/
+2020-09-11 08:50:28.469 Logger INFO  - Removing issue with id: 10438
+2020-09-11 08:50:28.469 Logger INFO  - Executing DELETE to /rest/api/2/issue/10438/
+2020-09-11 08:50:28.493 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 08:55:45.035 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 08:55:45.058 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 08:55:45.973 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 08:55:46.272 Logger INFO  - Setting JSESSIONID to: D5AA9851D088CCEEB333A9C9D0B56B70
+2020-09-11 08:55:46.290 Logger INFO  - Adding JSESSIONID D5AA9851D088CCEEB333A9C9D0B56B70 to request
+2020-09-11 08:55:46.304 Logger INFO  - Beginning test execution for method archiveIssueTest
+2020-09-11 08:55:46.723 Logger INFO  - Executing DELETE to /rest/api/2/issue/10439/archive/
+2020-09-11 08:55:46.785 Logger INFO  - archiveIssueTest method was completed successfully.
+2020-09-11 08:55:46.786 Logger INFO  - Executing GET to /rest/api/2/issue/10439/
+2020-09-11 08:55:46.835 Logger INFO  - Removing issue with id: 10439
+2020-09-11 08:55:46.835 Logger INFO  - Executing DELETE to /rest/api/2/issue/10439/
+2020-09-11 08:55:46.860 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 08:56:38.261 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 08:56:38.286 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 08:56:39.172 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 08:56:39.460 Logger INFO  - Setting JSESSIONID to: DDADACAD599F4E415F5BF0682A1B2406
+2020-09-11 08:56:39.470 Logger INFO  - Adding JSESSIONID DDADACAD599F4E415F5BF0682A1B2406 to request
+2020-09-11 08:56:39.483 Logger INFO  - Beginning test execution for method archiveIssueTest
+2020-09-11 08:56:39.492 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 08:56:39.766 Logger INFO  - Executing PUT to /rest/api/2/issue/10440/archive/
+2020-09-11 08:56:39.873 Logger INFO  - archiveIssueTest method was completed successfully.
+2020-09-11 08:56:39.875 Logger INFO  - Executing GET to /rest/api/2/issue/10440/
+2020-09-11 08:56:40.217 Logger INFO  - Removing issue with id: 10440
+2020-09-11 08:56:40.218 Logger INFO  - Executing DELETE to /rest/api/2/issue/10440/
+2020-09-11 08:56:40.242 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 08:57:55.375 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 08:57:55.400 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 08:57:56.306 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 08:57:56.609 Logger INFO  - Setting JSESSIONID to: D3B23F2C3BC6EE4E2C6CBFA01D970456
+2020-09-11 08:57:56.619 Logger INFO  - Adding JSESSIONID D3B23F2C3BC6EE4E2C6CBFA01D970456 to request
+2020-09-11 08:57:56.623 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 08:57:56.634 Logger INFO  - Beginning test execution for method archiveIssueTest
+2020-09-11 08:57:56.645 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 08:57:56.934 Logger INFO  - Executing PUT to /rest/api/2/issue/10441/archive/
+2020-09-11 08:57:57.008 Logger INFO  - archiveIssueTest method was completed successfully.
+2020-09-11 08:57:57.010 Logger INFO  - Executing GET to /rest/api/2/issue/10441/
+2020-09-11 08:57:57.044 Logger INFO  - Removing issue with id: 10441
+2020-09-11 08:57:57.044 Logger INFO  - Executing DELETE to /rest/api/2/issue/10441/
+2020-09-11 08:57:57.095 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:01:27.349 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:01:27.372 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 09:01:28.268 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 09:01:28.539 Logger INFO  - Setting JSESSIONID to: 5056649209592EB4F03E51395C25C4A1
+2020-09-11 09:01:28.549 Logger INFO  - Adding JSESSIONID 5056649209592EB4F03E51395C25C4A1 to request
+2020-09-11 09:01:28.551 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:01:28.563 Logger INFO  - Beginning test execution for method archiveIssueTest
+2020-09-11 09:01:28.572 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:01:28.818 Logger INFO  - Executing PUT to /rest/api/2/issue/10442/archive/
+2020-09-11 09:01:28.854 Logger INFO  - archiveIssueTest method was completed successfully.
+2020-09-11 09:01:28.855 Logger INFO  - Executing GET to /rest/api/2/issue/10442/
+2020-09-11 09:01:28.882 Logger INFO  - Removing issue with id: 10442
+2020-09-11 09:01:28.883 Logger INFO  - Executing DELETE to /rest/api/2/issue/10442/
+2020-09-11 09:01:28.902 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:06:04.936 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:06:04.961 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 09:06:05.913 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 09:06:06.188 Logger INFO  - Setting JSESSIONID to: AD200B5F018BD39BA5C98AACC2A61641
+2020-09-11 09:06:06.204 Logger INFO  - Adding JSESSIONID AD200B5F018BD39BA5C98AACC2A61641 to request
+2020-09-11 09:06:06.206 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:06:06.219 Logger INFO  - Beginning test execution for method archiveIssueTest
+2020-09-11 09:06:06.229 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:06:06.381 Logger INFO  - Status code: 201
+2020-09-11 09:06:06.399 Logger INFO  - Executing PUT to /rest/api/2/issue/10443/archive/
+2020-09-11 09:06:06.439 Logger INFO  - Status code: 204
+2020-09-11 09:06:06.444 Logger INFO  - archiveIssueTest method was completed successfully.
+2020-09-11 09:06:06.445 Logger INFO  - Executing GET to /rest/api/2/issue/10443/
+2020-09-11 09:06:06.481 Logger INFO  - Status code: 200
+2020-09-11 09:06:06.482 Logger INFO  - Removing issue with id: 10443
+2020-09-11 09:06:06.482 Logger INFO  - Executing DELETE to /rest/api/2/issue/10443/
+2020-09-11 09:06:06.519 Logger INFO  - Status code: 403
+2020-09-11 09:06:06.522 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:08:17.596 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:08:17.621 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 09:08:18.569 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 09:08:18.844 Logger INFO  - Setting JSESSIONID to: 987786F78D60F01EF07AD1183C4CD5EB
+2020-09-11 09:08:18.855 Logger INFO  - Adding JSESSIONID 987786F78D60F01EF07AD1183C4CD5EB to request
+2020-09-11 09:08:18.857 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:08:18.867 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:08:18.878 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:08:19.090 Logger INFO  - Status code: 201
+2020-09-11 09:08:19.113 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:08:19.119 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:08:19.119 Logger INFO  - Executing GET to /rest/api/2/issue/10444/
+2020-09-11 09:08:19.162 Logger INFO  - Status code: 200
+2020-09-11 09:08:19.184 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:08:19.187 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:08:19.190 Logger INFO  - Executing PUT to /rest/api/2/issue/10444/
+2020-09-11 09:08:19.238 Logger INFO  - Status code: 204
+2020-09-11 09:08:19.238 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:08:19.240 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:08:19.241 Logger INFO  - Executing DELETE to /rest/api/2/issue/10444/
+2020-09-11 09:08:19.271 Logger INFO  - Status code: 204
+2020-09-11 09:08:19.271 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:08:19.273 Logger INFO  - Executing GET to /rest/api/2/issue/10444/
+2020-09-11 09:08:19.294 Logger INFO  - Status code: 404
+2020-09-11 09:08:19.294 Logger INFO  - Cleaning up
+2020-09-11 09:08:19.295 Logger INFO  - Adding JSESSIONID 987786F78D60F01EF07AD1183C4CD5EB to request
+2020-09-11 09:08:19.295 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:08:19.296 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:08:19.297 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:08:19.340 Logger INFO  - Status code: 201
+2020-09-11 09:08:19.346 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:08:19.348 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:08:19.350 Logger INFO  - Executing GET to /rest/api/2/issue/10445/
+2020-09-11 09:08:19.385 Logger INFO  - Status code: 200
+2020-09-11 09:08:19.402 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:08:19.404 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:08:19.406 Logger INFO  - Executing PUT to /rest/api/2/issue/10445/
+2020-09-11 09:08:19.429 Logger INFO  - Status code: 204
+2020-09-11 09:08:19.429 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:08:19.439 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:08:19.440 Logger INFO  - Executing DELETE to /rest/api/2/issue/10445/
+2020-09-11 09:08:19.477 Logger INFO  - Status code: 204
+2020-09-11 09:08:19.477 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:08:19.479 Logger INFO  - Executing GET to /rest/api/2/issue/10445/
+2020-09-11 09:08:19.493 Logger INFO  - Status code: 404
+2020-09-11 09:08:19.493 Logger INFO  - Cleaning up
+2020-09-11 09:08:19.493 Logger INFO  - Adding JSESSIONID 987786F78D60F01EF07AD1183C4CD5EB to request
+2020-09-11 09:08:19.494 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:08:19.494 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:08:19.496 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:08:19.554 Logger INFO  - Status code: 201
+2020-09-11 09:08:19.561 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:08:19.564 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:08:19.565 Logger INFO  - Executing GET to /rest/api/2/issue/10446/
+2020-09-11 09:08:19.583 Logger INFO  - Status code: 200
+2020-09-11 09:08:19.595 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:08:19.598 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:08:19.599 Logger INFO  - Executing PUT to /rest/api/2/issue/10446/
+2020-09-11 09:08:19.681 Logger INFO  - Status code: 204
+2020-09-11 09:08:19.681 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:08:19.683 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:08:19.684 Logger INFO  - Executing DELETE to /rest/api/2/issue/10446/
+2020-09-11 09:08:19.709 Logger INFO  - Status code: 204
+2020-09-11 09:08:19.709 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:08:19.711 Logger INFO  - Executing GET to /rest/api/2/issue/10446/
+2020-09-11 09:08:19.761 Logger INFO  - Status code: 404
+2020-09-11 09:08:19.761 Logger INFO  - Cleaning up
+2020-09-11 09:08:19.761 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:14:42.602 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:14:42.623 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 09:14:43.480 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 09:14:43.750 Logger INFO  - Setting JSESSIONID to: E6653F54B3DCB9A0A1E275271A2F0613
+2020-09-11 09:14:43.760 Logger INFO  - Adding JSESSIONID E6653F54B3DCB9A0A1E275271A2F0613 to request
+2020-09-11 09:14:43.762 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:14:43.773 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:14:43.781 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:14:43.910 Logger INFO  - Status code: 201
+2020-09-11 09:14:43.936 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:14:43.941 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:14:43.942 Logger INFO  - Executing GET to /rest/api/2/issue/10447/
+2020-09-11 09:14:43.987 Logger INFO  - Status code: 200
+2020-09-11 09:14:44.014 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:14:44.015 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:14:44.018 Logger INFO  - Executing PUT to /rest/api/2/issue/10447/
+2020-09-11 09:14:44.059 Logger INFO  - Status code: 204
+2020-09-11 09:14:44.060 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:14:44.063 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:14:44.064 Logger INFO  - Executing DELETE to /rest/api/2/issue/10447/
+2020-09-11 09:14:44.092 Logger INFO  - Status code: 204
+2020-09-11 09:14:44.092 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:14:44.094 Logger INFO  - Executing GET to /rest/api/2/issue/10447/
+2020-09-11 09:14:44.161 Logger INFO  - Status code: 404
+2020-09-11 09:14:44.161 Logger INFO  - Cleaning up
+2020-09-11 09:14:44.163 Logger INFO  - Adding JSESSIONID E6653F54B3DCB9A0A1E275271A2F0613 to request
+2020-09-11 09:14:44.163 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:14:44.164 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:14:44.166 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:14:44.219 Logger INFO  - Status code: 201
+2020-09-11 09:14:44.226 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:14:44.228 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:14:44.229 Logger INFO  - Executing GET to /rest/api/2/issue/10448/
+2020-09-11 09:14:44.256 Logger INFO  - Status code: 200
+2020-09-11 09:14:44.276 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:14:44.281 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:14:44.286 Logger INFO  - Executing PUT to /rest/api/2/issue/10448/
+2020-09-11 09:14:44.331 Logger INFO  - Status code: 204
+2020-09-11 09:14:44.332 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:14:44.334 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:14:44.335 Logger INFO  - Executing DELETE to /rest/api/2/issue/10448/
+2020-09-11 09:14:44.352 Logger INFO  - Status code: 204
+2020-09-11 09:14:44.352 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:14:44.353 Logger INFO  - Executing GET to /rest/api/2/issue/10448/
+2020-09-11 09:14:44.365 Logger INFO  - Status code: 404
+2020-09-11 09:14:44.365 Logger INFO  - Cleaning up
+2020-09-11 09:14:44.366 Logger INFO  - Adding JSESSIONID E6653F54B3DCB9A0A1E275271A2F0613 to request
+2020-09-11 09:14:44.366 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:14:44.367 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:14:44.368 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:14:44.417 Logger INFO  - Status code: 201
+2020-09-11 09:14:44.425 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:14:44.428 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:14:44.429 Logger INFO  - Executing GET to /rest/api/2/issue/10449/
+2020-09-11 09:14:44.452 Logger INFO  - Status code: 200
+2020-09-11 09:14:44.462 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:14:44.463 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:14:44.465 Logger INFO  - Executing PUT to /rest/api/2/issue/10449/
+2020-09-11 09:14:44.484 Logger INFO  - Status code: 204
+2020-09-11 09:14:44.485 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:14:44.487 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:14:44.489 Logger INFO  - Executing DELETE to /rest/api/2/issue/10449/
+2020-09-11 09:14:44.506 Logger INFO  - Status code: 204
+2020-09-11 09:14:44.506 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:14:44.508 Logger INFO  - Executing GET to /rest/api/2/issue/10449/
+2020-09-11 09:14:44.539 Logger INFO  - Status code: 404
+2020-09-11 09:14:44.539 Logger INFO  - Cleaning up
+2020-09-11 09:14:44.542 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:17:46.096 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:17:46.118 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 09:17:47.021 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 09:17:47.304 Logger INFO  - Setting JSESSIONID to: 8C544E6052CEFA90F99F56B1555060D6
+2020-09-11 09:17:47.315 Logger INFO  - Adding JSESSIONID 8C544E6052CEFA90F99F56B1555060D6 to request
+2020-09-11 09:17:47.318 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:17:47.328 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:17:47.337 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:17:47.543 Logger INFO  - Status code: 201
+2020-09-11 09:17:47.565 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:17:47.571 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:17:47.572 Logger INFO  - Executing GET to /rest/api/2/issue/10450/
+2020-09-11 09:17:47.619 Logger INFO  - Status code: 200
+2020-09-11 09:17:47.638 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:17:47.642 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:17:47.646 Logger INFO  - Executing PUT to /rest/api/2/issue/10450/
+2020-09-11 09:17:47.678 Logger INFO  - Status code: 204
+2020-09-11 09:17:47.679 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:17:47.681 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:17:47.683 Logger INFO  - Executing DELETE to /rest/api/2/issue/10450/
+2020-09-11 09:17:47.709 Logger INFO  - Status code: 204
+2020-09-11 09:17:47.709 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:17:47.712 Logger INFO  - Executing GET to /rest/api/2/issue/10450/
+2020-09-11 09:17:47.745 Logger INFO  - Status code: 404
+2020-09-11 09:17:47.745 Logger INFO  - Cleaning up
+2020-09-11 09:17:47.747 Logger INFO  - Adding JSESSIONID 8C544E6052CEFA90F99F56B1555060D6 to request
+2020-09-11 09:17:47.747 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:17:47.748 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:17:47.750 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:17:47.767 Logger INFO  - Status code: 415
+2020-09-11 09:17:47.770 Logger INFO  - createNewIssueTest test failed.
+2020-09-11 09:17:47.777 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:17:47.781 Logger INFO  - Skipped test getCreatedIssueTest
+2020-09-11 09:17:47.784 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:17:47.786 Logger INFO  - Skipped test updateCreatedIssueTest
+2020-09-11 09:17:47.789 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:17:47.793 Logger INFO  - Executing DELETE to /rest/api/2/issue/null/
+2020-09-11 09:17:47.809 Logger INFO  - Status code: 415
+2020-09-11 09:17:47.810 Logger INFO  - deleteCreatedIssueTest test failed.
+2020-09-11 09:17:47.812 Logger INFO  - Executing GET to /rest/api/2/issue/null/
+2020-09-11 09:17:47.827 Logger INFO  - Status code: 415
+2020-09-11 09:17:47.827 Logger INFO  - Cleaning up
+2020-09-11 09:17:47.828 Logger INFO  - Adding JSESSIONID 8C544E6052CEFA90F99F56B1555060D6 to request
+2020-09-11 09:17:47.829 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:17:47.829 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:17:47.830 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:17:47.845 Logger INFO  - Status code: 415
+2020-09-11 09:17:47.846 Logger INFO  - createNewIssueTest test failed.
+2020-09-11 09:17:47.849 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:17:47.849 Logger INFO  - Skipped test getCreatedIssueTest
+2020-09-11 09:17:47.852 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:17:47.853 Logger INFO  - Skipped test updateCreatedIssueTest
+2020-09-11 09:17:47.854 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:17:47.854 Logger INFO  - Executing DELETE to /rest/api/2/issue/null/
+2020-09-11 09:17:47.865 Logger INFO  - Status code: 415
+2020-09-11 09:17:47.866 Logger INFO  - deleteCreatedIssueTest test failed.
+2020-09-11 09:17:47.867 Logger INFO  - Executing GET to /rest/api/2/issue/null/
+2020-09-11 09:17:47.878 Logger INFO  - Status code: 415
+2020-09-11 09:17:47.878 Logger INFO  - Cleaning up
+2020-09-11 09:17:47.879 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:18:59.928 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:18:59.949 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 09:19:00.845 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 09:19:01.109 Logger INFO  - Setting JSESSIONID to: 84B59AD79361393F8EA46040DA709B0B
+2020-09-11 09:19:01.118 Logger INFO  - Adding JSESSIONID 84B59AD79361393F8EA46040DA709B0B to request
+2020-09-11 09:19:01.120 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:19:01.130 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:19:01.140 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:19:01.292 Logger INFO  - Status code: 201
+2020-09-11 09:19:01.315 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:19:01.324 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:19:01.326 Logger INFO  - Executing GET to /rest/api/2/issue/10451/
+2020-09-11 09:19:01.375 Logger INFO  - Status code: 200
+2020-09-11 09:19:01.394 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:19:01.396 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:19:01.401 Logger INFO  - Executing PUT to /rest/api/2/issue/10451/
+2020-09-11 09:19:01.446 Logger INFO  - Status code: 204
+2020-09-11 09:19:01.446 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:19:01.448 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:19:01.449 Logger INFO  - Executing DELETE to /rest/api/2/issue/10451/
+2020-09-11 09:19:01.478 Logger INFO  - Status code: 204
+2020-09-11 09:19:01.479 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:19:01.482 Logger INFO  - Executing GET to /rest/api/2/issue/10451/
+2020-09-11 09:19:01.526 Logger INFO  - Status code: 404
+2020-09-11 09:19:01.526 Logger INFO  - Cleaning up
+2020-09-11 09:19:01.528 Logger INFO  - Adding JSESSIONID 84B59AD79361393F8EA46040DA709B0B to request
+2020-09-11 09:19:01.529 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:19:01.529 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:19:01.531 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:19:01.591 Logger INFO  - Status code: 201
+2020-09-11 09:19:01.599 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:19:01.601 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:19:01.602 Logger INFO  - Executing GET to /rest/api/2/issue/10452/
+2020-09-11 09:19:01.673 Logger INFO  - Status code: 200
+2020-09-11 09:19:01.684 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:19:01.686 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:19:01.688 Logger INFO  - Executing PUT to /rest/api/2/issue/10452/
+2020-09-11 09:19:01.723 Logger INFO  - Status code: 204
+2020-09-11 09:19:01.723 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:19:01.725 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:19:01.726 Logger INFO  - Executing DELETE to /rest/api/2/issue/10452/
+2020-09-11 09:19:01.747 Logger INFO  - Status code: 204
+2020-09-11 09:19:01.747 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:19:01.750 Logger INFO  - Executing GET to /rest/api/2/issue/10452/
+2020-09-11 09:19:01.768 Logger INFO  - Status code: 404
+2020-09-11 09:19:01.768 Logger INFO  - Cleaning up
+2020-09-11 09:19:01.770 Logger INFO  - Adding JSESSIONID 84B59AD79361393F8EA46040DA709B0B to request
+2020-09-11 09:19:01.770 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:19:01.771 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:19:01.772 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:19:01.821 Logger INFO  - Status code: 201
+2020-09-11 09:19:01.828 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:19:01.829 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:19:01.830 Logger INFO  - Executing GET to /rest/api/2/issue/10453/
+2020-09-11 09:19:01.854 Logger INFO  - Status code: 200
+2020-09-11 09:19:01.867 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:19:01.870 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:19:01.872 Logger INFO  - Executing PUT to /rest/api/2/issue/10453/
+2020-09-11 09:19:01.892 Logger INFO  - Status code: 204
+2020-09-11 09:19:01.892 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:19:01.893 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:19:01.894 Logger INFO  - Executing DELETE to /rest/api/2/issue/10453/
+2020-09-11 09:19:01.911 Logger INFO  - Status code: 204
+2020-09-11 09:19:01.912 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:19:01.914 Logger INFO  - Executing GET to /rest/api/2/issue/10453/
+2020-09-11 09:19:01.937 Logger INFO  - Status code: 404
+2020-09-11 09:19:01.937 Logger INFO  - Cleaning up
+2020-09-11 09:19:01.938 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:19:38.239 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:19:38.261 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 09:19:39.157 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 09:19:39.429 Logger INFO  - Setting JSESSIONID to: 04C4DDA8A90A08C8FE34D3368FD553B4
+2020-09-11 09:19:39.439 Logger INFO  - Adding JSESSIONID 04C4DDA8A90A08C8FE34D3368FD553B4 to request
+2020-09-11 09:19:39.441 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:19:39.451 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:19:39.459 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:19:39.523 Logger INFO  - Status code: 400
+2020-09-11 09:19:39.548 Logger INFO  - createNewIssueTest test failed.
+2020-09-11 09:19:39.557 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:19:39.560 Logger INFO  - Skipped test getCreatedIssueTest
+2020-09-11 09:19:39.562 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:19:39.564 Logger INFO  - Skipped test updateCreatedIssueTest
+2020-09-11 09:19:39.566 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:19:39.569 Logger INFO  - Executing DELETE to /rest/api/2/issue/null/
+2020-09-11 09:19:39.600 Logger INFO  - Status code: 404
+2020-09-11 09:19:39.601 Logger INFO  - deleteCreatedIssueTest test failed.
+2020-09-11 09:19:39.603 Logger INFO  - Executing GET to /rest/api/2/issue/null/
+2020-09-11 09:19:39.625 Logger INFO  - Status code: 404
+2020-09-11 09:19:39.626 Logger INFO  - Cleaning up
+2020-09-11 09:19:39.635 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:19:39.636 Logger INFO  - Skipped test createNewIssueTest
+2020-09-11 09:19:39.638 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:19:39.639 Logger INFO  - Skipped test getCreatedIssueTest
+2020-09-11 09:19:39.640 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:19:39.641 Logger INFO  - Skipped test updateCreatedIssueTest
+2020-09-11 09:19:39.642 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:19:39.643 Logger INFO  - Skipped test deleteCreatedIssueTest
+2020-09-11 09:19:39.652 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:19:39.653 Logger INFO  - Skipped test createNewIssueTest
+2020-09-11 09:19:39.654 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:19:39.655 Logger INFO  - Skipped test getCreatedIssueTest
+2020-09-11 09:19:39.678 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:19:39.682 Logger INFO  - Skipped test updateCreatedIssueTest
+2020-09-11 09:19:39.686 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:19:39.689 Logger INFO  - Skipped test deleteCreatedIssueTest
+2020-09-11 09:19:39.703 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:20:08.270 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:20:08.293 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 09:20:09.161 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 09:20:09.444 Logger INFO  - Setting JSESSIONID to: 6242B1F136CD647BC051460FF8B44DE5
+2020-09-11 09:20:09.453 Logger INFO  - Adding JSESSIONID 6242B1F136CD647BC051460FF8B44DE5 to request
+2020-09-11 09:20:09.455 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:20:09.464 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:20:09.475 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:20:09.604 Logger INFO  - Status code: 201
+2020-09-11 09:20:09.628 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:20:09.633 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:20:09.634 Logger INFO  - Executing GET to /rest/api/2/issue/10454/
+2020-09-11 09:20:09.680 Logger INFO  - Status code: 200
+2020-09-11 09:20:09.699 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:20:09.702 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:20:09.704 Logger INFO  - Executing PUT to /rest/api/2/issue/10454/
+2020-09-11 09:20:09.737 Logger INFO  - Status code: 204
+2020-09-11 09:20:09.738 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:20:09.741 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:20:09.742 Logger INFO  - Executing DELETE to /rest/api/2/issue/10454/
+2020-09-11 09:20:09.765 Logger INFO  - Status code: 204
+2020-09-11 09:20:09.765 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:20:09.768 Logger INFO  - Executing GET to /rest/api/2/issue/10454/
+2020-09-11 09:20:09.783 Logger INFO  - Status code: 404
+2020-09-11 09:20:09.783 Logger INFO  - Cleaning up
+2020-09-11 09:20:09.786 Logger INFO  - Adding JSESSIONID 6242B1F136CD647BC051460FF8B44DE5 to request
+2020-09-11 09:20:09.786 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:20:09.787 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:20:09.788 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:20:09.852 Logger INFO  - Status code: 201
+2020-09-11 09:20:09.859 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:20:09.861 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:20:09.862 Logger INFO  - Executing GET to /rest/api/2/issue/10455/
+2020-09-11 09:20:09.885 Logger INFO  - Status code: 200
+2020-09-11 09:20:09.895 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:20:09.897 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:20:09.898 Logger INFO  - Executing PUT to /rest/api/2/issue/10455/
+2020-09-11 09:20:09.919 Logger INFO  - Status code: 204
+2020-09-11 09:20:09.920 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:20:09.922 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:20:09.923 Logger INFO  - Executing DELETE to /rest/api/2/issue/10455/
+2020-09-11 09:20:09.941 Logger INFO  - Status code: 204
+2020-09-11 09:20:09.942 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:20:09.946 Logger INFO  - Executing GET to /rest/api/2/issue/10455/
+2020-09-11 09:20:09.962 Logger INFO  - Status code: 404
+2020-09-11 09:20:09.962 Logger INFO  - Cleaning up
+2020-09-11 09:20:09.964 Logger INFO  - Adding JSESSIONID 6242B1F136CD647BC051460FF8B44DE5 to request
+2020-09-11 09:20:09.964 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:20:09.965 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:20:09.966 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:20:10.015 Logger INFO  - Status code: 201
+2020-09-11 09:20:10.022 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:20:10.027 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:20:10.028 Logger INFO  - Executing GET to /rest/api/2/issue/10456/
+2020-09-11 09:20:10.050 Logger INFO  - Status code: 200
+2020-09-11 09:20:10.064 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:20:10.068 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:20:10.071 Logger INFO  - Executing PUT to /rest/api/2/issue/10456/
+2020-09-11 09:20:10.103 Logger INFO  - Status code: 204
+2020-09-11 09:20:10.103 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:20:10.104 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:20:10.105 Logger INFO  - Executing DELETE to /rest/api/2/issue/10456/
+2020-09-11 09:20:10.124 Logger INFO  - Status code: 204
+2020-09-11 09:20:10.125 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:20:10.126 Logger INFO  - Executing GET to /rest/api/2/issue/10456/
+2020-09-11 09:20:10.153 Logger INFO  - Status code: 404
+2020-09-11 09:20:10.153 Logger INFO  - Cleaning up
+2020-09-11 09:20:10.153 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:22:11.381 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:22:11.405 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 09:22:12.274 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 09:22:12.532 Logger INFO  - Setting JSESSIONID to: 03E498EFEE512F7926A8A21DEAF43F03
+2020-09-11 09:22:12.541 Logger INFO  - Adding JSESSIONID 03E498EFEE512F7926A8A21DEAF43F03 to request
+2020-09-11 09:22:12.542 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:22:12.551 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:22:12.559 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:22:12.708 Logger INFO  - Status code: 201
+2020-09-11 09:22:12.728 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:22:12.733 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:22:12.734 Logger INFO  - Executing GET to /rest/api/2/issue/10457/
+2020-09-11 09:22:12.777 Logger INFO  - Status code: 200
+2020-09-11 09:22:12.796 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:22:12.798 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:22:12.800 Logger INFO  - Executing PUT to /rest/api/2/issue/10457/
+2020-09-11 09:22:12.838 Logger INFO  - Status code: 204
+2020-09-11 09:22:12.839 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:22:12.843 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:22:12.844 Logger INFO  - Executing DELETE to /rest/api/2/issue/10457/
+2020-09-11 09:22:12.870 Logger INFO  - Status code: 204
+2020-09-11 09:22:12.871 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:22:12.874 Logger INFO  - Executing GET to /rest/api/2/issue/10457/
+2020-09-11 09:22:12.899 Logger INFO  - Status code: 404
+2020-09-11 09:22:12.901 Logger INFO  - Adding JSESSIONID 03E498EFEE512F7926A8A21DEAF43F03 to request
+2020-09-11 09:22:12.903 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:22:12.904 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:22:12.905 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:22:13.015 Logger INFO  - Status code: 201
+2020-09-11 09:22:13.022 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:22:13.025 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:22:13.025 Logger INFO  - Executing GET to /rest/api/2/issue/10458/
+2020-09-11 09:22:13.050 Logger INFO  - Status code: 200
+2020-09-11 09:22:13.062 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:22:13.068 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:22:13.072 Logger INFO  - Executing PUT to /rest/api/2/issue/10458/
+2020-09-11 09:22:13.098 Logger INFO  - Status code: 204
+2020-09-11 09:22:13.098 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:22:13.099 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:22:13.102 Logger INFO  - Executing DELETE to /rest/api/2/issue/10458/
+2020-09-11 09:22:13.122 Logger INFO  - Status code: 204
+2020-09-11 09:22:13.123 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:22:13.126 Logger INFO  - Executing GET to /rest/api/2/issue/10458/
+2020-09-11 09:22:13.147 Logger INFO  - Status code: 404
+2020-09-11 09:22:13.148 Logger INFO  - Adding JSESSIONID 03E498EFEE512F7926A8A21DEAF43F03 to request
+2020-09-11 09:22:13.149 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:22:13.149 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:22:13.150 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:22:13.232 Logger INFO  - Status code: 201
+2020-09-11 09:22:13.239 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:22:13.240 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:22:13.241 Logger INFO  - Executing GET to /rest/api/2/issue/10459/
+2020-09-11 09:22:13.261 Logger INFO  - Status code: 200
+2020-09-11 09:22:13.280 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:22:13.283 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:22:13.288 Logger INFO  - Executing PUT to /rest/api/2/issue/10459/
+2020-09-11 09:22:13.307 Logger INFO  - Status code: 204
+2020-09-11 09:22:13.308 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:22:13.311 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:22:13.313 Logger INFO  - Executing DELETE to /rest/api/2/issue/10459/
+2020-09-11 09:22:13.331 Logger INFO  - Status code: 204
+2020-09-11 09:22:13.331 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:22:13.332 Logger INFO  - Executing GET to /rest/api/2/issue/10459/
+2020-09-11 09:22:13.351 Logger INFO  - Status code: 404
+2020-09-11 09:22:13.352 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:22:34.041 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:22:34.066 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 09:22:34.946 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 09:22:35.205 Logger INFO  - Setting JSESSIONID to: 82EFE425BCC5EBE00F67569823EF8C89
+2020-09-11 09:22:35.214 Logger INFO  - Adding JSESSIONID 82EFE425BCC5EBE00F67569823EF8C89 to request
+2020-09-11 09:22:35.222 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:22:35.232 Logger INFO  - Beginning test execution for method archiveIssueTest
+2020-09-11 09:22:35.240 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:22:35.343 Logger INFO  - Status code: 201
+2020-09-11 09:22:35.366 Logger INFO  - Executing PUT to /rest/api/2/issue/10460/archive/
+2020-09-11 09:22:35.403 Logger INFO  - Status code: 204
+2020-09-11 09:22:35.409 Logger INFO  - archiveIssueTest method was completed successfully.
+2020-09-11 09:22:35.410 Logger INFO  - Executing GET to /rest/api/2/issue/10460/
+2020-09-11 09:22:35.439 Logger INFO  - Status code: 200
+2020-09-11 09:22:35.439 Logger INFO  - Removing issue with id: 10460
+2020-09-11 09:22:35.439 Logger INFO  - Executing DELETE to /rest/api/2/issue/10460/
+2020-09-11 09:22:35.460 Logger INFO  - Status code: 403
+2020-09-11 09:22:35.463 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:29:31.910 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:29:31.932 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 09:29:32.834 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 09:29:33.118 Logger INFO  - Setting JSESSIONID to: FA68AAB207229B4DB90C966DBAB1321E
+2020-09-11 09:29:33.133 Logger INFO  - Adding JSESSIONID FA68AAB207229B4DB90C966DBAB1321E to request
+2020-09-11 09:29:33.135 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:29:33.147 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:29:33.157 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:29:33.312 Logger INFO  - Status code: 201
+2020-09-11 09:29:33.336 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:29:33.341 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:29:33.343 Logger INFO  - Executing GET to /rest/api/2/issue/10461/
+2020-09-11 09:29:33.390 Logger INFO  - Status code: 200
+2020-09-11 09:29:33.409 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:29:33.410 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:29:33.413 Logger INFO  - Executing PUT to /rest/api/2/issue/10461/
+2020-09-11 09:29:33.449 Logger INFO  - Status code: 204
+2020-09-11 09:29:33.450 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:29:33.451 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:29:33.452 Logger INFO  - Executing DELETE to /rest/api/2/issue/10461/
+2020-09-11 09:29:33.476 Logger INFO  - Status code: 204
+2020-09-11 09:29:33.477 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:29:33.479 Logger INFO  - Executing GET to /rest/api/2/issue/10461/
+2020-09-11 09:29:33.494 Logger INFO  - Status code: 404
+2020-09-11 09:29:33.495 Logger INFO  - Adding JSESSIONID FA68AAB207229B4DB90C966DBAB1321E to request
+2020-09-11 09:29:33.496 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:29:33.496 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:29:33.497 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:29:33.551 Logger INFO  - Status code: 201
+2020-09-11 09:29:33.562 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:29:33.565 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:29:33.567 Logger INFO  - Executing GET to /rest/api/2/issue/10462/
+2020-09-11 09:29:33.598 Logger INFO  - Status code: 200
+2020-09-11 09:29:33.615 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:29:33.616 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:29:33.618 Logger INFO  - Executing PUT to /rest/api/2/issue/10462/
+2020-09-11 09:29:33.641 Logger INFO  - Status code: 204
+2020-09-11 09:29:33.641 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:29:33.644 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:29:33.644 Logger INFO  - Executing DELETE to /rest/api/2/issue/10462/
+2020-09-11 09:29:33.665 Logger INFO  - Status code: 204
+2020-09-11 09:29:33.666 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:29:33.671 Logger INFO  - Executing GET to /rest/api/2/issue/10462/
+2020-09-11 09:29:33.688 Logger INFO  - Status code: 404
+2020-09-11 09:29:33.689 Logger INFO  - Adding JSESSIONID FA68AAB207229B4DB90C966DBAB1321E to request
+2020-09-11 09:29:33.690 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:29:33.690 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:29:33.691 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:29:33.735 Logger INFO  - Status code: 201
+2020-09-11 09:29:33.742 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:29:33.745 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:29:33.746 Logger INFO  - Executing GET to /rest/api/2/issue/10463/
+2020-09-11 09:29:33.781 Logger INFO  - Status code: 200
+2020-09-11 09:29:33.794 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:29:33.801 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:29:33.805 Logger INFO  - Executing PUT to /rest/api/2/issue/10463/
+2020-09-11 09:29:33.846 Logger INFO  - Status code: 204
+2020-09-11 09:29:33.847 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:29:33.850 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:29:33.851 Logger INFO  - Executing DELETE to /rest/api/2/issue/10463/
+2020-09-11 09:29:33.878 Logger INFO  - Status code: 204
+2020-09-11 09:29:33.879 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:29:33.883 Logger INFO  - Executing GET to /rest/api/2/issue/10463/
+2020-09-11 09:29:33.911 Logger INFO  - Status code: 404
+2020-09-11 09:29:33.912 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:31:35.484 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:31:35.502 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:31:35.513 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 09:31:36.396 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 09:31:36.679 Logger INFO  - Setting JSESSIONID to: DA432EEEA930E40B287E53CAAC878FD7
+2020-09-11 09:31:36.689 Logger INFO  - Adding JSESSIONID DA432EEEA930E40B287E53CAAC878FD7 to request
+2020-09-11 09:31:36.692 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:31:36.701 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:31:36.821 Logger INFO  - Status code: 201
+2020-09-11 09:31:36.855 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:31:36.860 Logger INFO  - Adding JSESSIONID DA432EEEA930E40B287E53CAAC878FD7 to request
+2020-09-11 09:31:36.861 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:31:36.861 Logger INFO  - Executing GET to /rest/api/2/issue/10464/
+2020-09-11 09:31:36.896 Logger INFO  - Status code: 200
+2020-09-11 09:31:36.918 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:31:36.924 Logger INFO  - Adding JSESSIONID DA432EEEA930E40B287E53CAAC878FD7 to request
+2020-09-11 09:31:36.925 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:31:36.928 Logger INFO  - Executing PUT to /rest/api/2/issue/10464/
+2020-09-11 09:31:36.957 Logger INFO  - Status code: 204
+2020-09-11 09:31:36.958 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:31:36.965 Logger INFO  - Adding JSESSIONID DA432EEEA930E40B287E53CAAC878FD7 to request
+2020-09-11 09:31:36.966 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:31:36.967 Logger INFO  - Executing DELETE to /rest/api/2/issue/10464/
+2020-09-11 09:31:36.993 Logger INFO  - Status code: 204
+2020-09-11 09:31:36.993 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:31:36.996 Logger INFO  - Executing GET to /rest/api/2/issue/10464/
+2020-09-11 09:31:37.018 Logger INFO  - Status code: 404
+2020-09-11 09:31:37.018 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:31:37.019 Logger INFO  - Adding JSESSIONID DA432EEEA930E40B287E53CAAC878FD7 to request
+2020-09-11 09:31:37.019 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:31:37.022 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:31:37.067 Logger INFO  - Status code: 201
+2020-09-11 09:31:37.074 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:31:37.077 Logger INFO  - Adding JSESSIONID DA432EEEA930E40B287E53CAAC878FD7 to request
+2020-09-11 09:31:37.077 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:31:37.078 Logger INFO  - Executing GET to /rest/api/2/issue/10465/
+2020-09-11 09:31:37.105 Logger INFO  - Status code: 200
+2020-09-11 09:31:37.114 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:31:37.118 Logger INFO  - Adding JSESSIONID DA432EEEA930E40B287E53CAAC878FD7 to request
+2020-09-11 09:31:37.119 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:31:37.122 Logger INFO  - Executing PUT to /rest/api/2/issue/10465/
+2020-09-11 09:31:37.141 Logger INFO  - Status code: 204
+2020-09-11 09:31:37.141 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:31:37.144 Logger INFO  - Adding JSESSIONID DA432EEEA930E40B287E53CAAC878FD7 to request
+2020-09-11 09:31:37.145 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:31:37.146 Logger INFO  - Executing DELETE to /rest/api/2/issue/10465/
+2020-09-11 09:31:37.163 Logger INFO  - Status code: 204
+2020-09-11 09:31:37.163 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:31:37.167 Logger INFO  - Executing GET to /rest/api/2/issue/10465/
+2020-09-11 09:31:37.183 Logger INFO  - Status code: 404
+2020-09-11 09:31:37.183 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:31:37.184 Logger INFO  - Adding JSESSIONID DA432EEEA930E40B287E53CAAC878FD7 to request
+2020-09-11 09:31:37.184 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:31:37.188 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:31:37.303 Logger INFO  - Status code: 201
+2020-09-11 09:31:37.310 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:31:37.312 Logger INFO  - Adding JSESSIONID DA432EEEA930E40B287E53CAAC878FD7 to request
+2020-09-11 09:31:37.313 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:31:37.314 Logger INFO  - Executing GET to /rest/api/2/issue/10466/
+2020-09-11 09:31:37.337 Logger INFO  - Status code: 200
+2020-09-11 09:31:37.346 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:31:37.349 Logger INFO  - Adding JSESSIONID DA432EEEA930E40B287E53CAAC878FD7 to request
+2020-09-11 09:31:37.349 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:31:37.350 Logger INFO  - Executing PUT to /rest/api/2/issue/10466/
+2020-09-11 09:31:37.381 Logger INFO  - Status code: 204
+2020-09-11 09:31:37.381 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:31:37.383 Logger INFO  - Adding JSESSIONID DA432EEEA930E40B287E53CAAC878FD7 to request
+2020-09-11 09:31:37.384 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:31:37.384 Logger INFO  - Executing DELETE to /rest/api/2/issue/10466/
+2020-09-11 09:31:37.404 Logger INFO  - Status code: 204
+2020-09-11 09:31:37.404 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:31:37.409 Logger INFO  - Executing GET to /rest/api/2/issue/10466/
+2020-09-11 09:31:37.435 Logger INFO  - Status code: 404
+2020-09-11 09:31:37.435 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:34:23.585 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:34:23.608 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 09:34:24.478 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 09:34:24.745 Logger INFO  - Setting JSESSIONID to: BF01321C2834136E0E41BB92C8437CCC
+2020-09-11 09:34:24.754 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:34:24.764 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:34:24.773 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:34:24.983 Logger INFO  - Status code: 400
+2020-09-11 09:34:25.004 Logger INFO  - createNewIssueTest test failed.
+2020-09-11 09:34:25.011 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:34:25.012 Logger INFO  - Skipped test getCreatedIssueTest
+2020-09-11 09:34:25.016 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:34:25.017 Logger INFO  - Skipped test updateCreatedIssueTest
+2020-09-11 09:34:25.020 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:34:25.022 Logger INFO  - Executing DELETE to /rest/api/2/issue/null/
+2020-09-11 09:34:25.080 Logger INFO  - Status code: 404
+2020-09-11 09:34:25.081 Logger INFO  - deleteCreatedIssueTest test failed.
+2020-09-11 09:34:25.103 Logger INFO  - Adding JSESSIONID BF01321C2834136E0E41BB92C8437CCC to request
+2020-09-11 09:34:25.107 Logger INFO  - Executing GET to /rest/api/2/issue/null/
+2020-09-11 09:34:25.195 Logger INFO  - Status code: 404
+2020-09-11 09:34:25.197 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:34:25.198 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:34:25.199 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:34:25.255 Logger INFO  - Status code: 201
+2020-09-11 09:34:25.267 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:34:25.269 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:34:25.270 Logger INFO  - Executing GET to /rest/api/2/issue/10467/
+2020-09-11 09:34:25.345 Logger INFO  - Status code: 401
+2020-09-11 09:34:25.352 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 09:34:25.356 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:34:25.358 Logger INFO  - Executing PUT to /rest/api/2/issue/10467/
+2020-09-11 09:34:25.377 Logger INFO  - Status code: 401
+2020-09-11 09:34:25.378 Logger INFO  - updateCreatedIssueTest test failed.
+2020-09-11 09:34:25.383 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:34:25.384 Logger INFO  - Executing DELETE to /rest/api/2/issue/10467/
+2020-09-11 09:34:25.406 Logger INFO  - Status code: 401
+2020-09-11 09:34:25.406 Logger INFO  - deleteCreatedIssueTest test failed.
+2020-09-11 09:34:25.408 Logger INFO  - Adding JSESSIONID BF01321C2834136E0E41BB92C8437CCC to request
+2020-09-11 09:34:25.408 Logger INFO  - Executing GET to /rest/api/2/issue/10467/
+2020-09-11 09:34:25.459 Logger INFO  - Status code: 200
+2020-09-11 09:34:25.459 Logger INFO  - Removing issue with id 10467
+2020-09-11 09:34:25.459 Logger INFO  - Executing DELETE to /rest/api/2/issue/10467/
+2020-09-11 09:34:25.483 Logger INFO  - Status code: 204
+2020-09-11 09:34:25.484 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:34:25.485 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:34:25.486 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:34:25.530 Logger INFO  - Status code: 201
+2020-09-11 09:34:25.537 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:34:25.545 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:34:25.546 Logger INFO  - Executing GET to /rest/api/2/issue/10468/
+2020-09-11 09:34:25.603 Logger INFO  - Status code: 401
+2020-09-11 09:34:25.634 Logger INFO  - getCreatedIssueTest test failed.
+2020-09-11 09:34:25.643 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:34:25.645 Logger INFO  - Executing PUT to /rest/api/2/issue/10468/
+2020-09-11 09:34:25.674 Logger INFO  - Status code: 401
+2020-09-11 09:34:25.674 Logger INFO  - updateCreatedIssueTest test failed.
+2020-09-11 09:34:25.676 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:34:25.677 Logger INFO  - Executing DELETE to /rest/api/2/issue/10468/
+2020-09-11 09:34:25.694 Logger INFO  - Status code: 401
+2020-09-11 09:34:25.694 Logger INFO  - deleteCreatedIssueTest test failed.
+2020-09-11 09:34:25.698 Logger INFO  - Adding JSESSIONID BF01321C2834136E0E41BB92C8437CCC to request
+2020-09-11 09:34:25.698 Logger INFO  - Executing GET to /rest/api/2/issue/10468/
+2020-09-11 09:34:25.729 Logger INFO  - Status code: 200
+2020-09-11 09:34:25.729 Logger INFO  - Removing issue with id 10468
+2020-09-11 09:34:25.730 Logger INFO  - Executing DELETE to /rest/api/2/issue/10468/
+2020-09-11 09:34:25.772 Logger INFO  - Status code: 204
+2020-09-11 09:34:25.772 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:34:47.233 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 09:34:47.251 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:34:47.262 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 09:34:48.435 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 09:34:48.836 Logger INFO  - Setting JSESSIONID to: B128C0E4FD42B23AE574B7ABB654BCDA
+2020-09-11 09:34:48.847 Logger INFO  - Adding JSESSIONID B128C0E4FD42B23AE574B7ABB654BCDA to request
+2020-09-11 09:34:48.850 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:34:48.857 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:34:48.962 Logger INFO  - Status code: 201
+2020-09-11 09:34:48.990 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:34:48.995 Logger INFO  - Adding JSESSIONID B128C0E4FD42B23AE574B7ABB654BCDA to request
+2020-09-11 09:34:48.996 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:34:48.997 Logger INFO  - Executing GET to /rest/api/2/issue/10469/
+2020-09-11 09:34:49.073 Logger INFO  - Status code: 200
+2020-09-11 09:34:49.099 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:34:49.102 Logger INFO  - Adding JSESSIONID B128C0E4FD42B23AE574B7ABB654BCDA to request
+2020-09-11 09:34:49.102 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:34:49.105 Logger INFO  - Executing PUT to /rest/api/2/issue/10469/
+2020-09-11 09:34:49.138 Logger INFO  - Status code: 204
+2020-09-11 09:34:49.138 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:34:49.141 Logger INFO  - Adding JSESSIONID B128C0E4FD42B23AE574B7ABB654BCDA to request
+2020-09-11 09:34:49.142 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:34:49.149 Logger INFO  - Executing DELETE to /rest/api/2/issue/10469/
+2020-09-11 09:34:49.191 Logger INFO  - Status code: 204
+2020-09-11 09:34:49.191 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:34:49.193 Logger INFO  - Adding JSESSIONID B128C0E4FD42B23AE574B7ABB654BCDA to request
+2020-09-11 09:34:49.193 Logger INFO  - Executing GET to /rest/api/2/issue/10469/
+2020-09-11 09:34:49.210 Logger INFO  - Status code: 404
+2020-09-11 09:34:49.211 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:34:49.212 Logger INFO  - Adding JSESSIONID B128C0E4FD42B23AE574B7ABB654BCDA to request
+2020-09-11 09:34:49.212 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:34:49.214 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:34:49.379 Logger INFO  - Status code: 201
+2020-09-11 09:34:49.387 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:34:49.392 Logger INFO  - Adding JSESSIONID B128C0E4FD42B23AE574B7ABB654BCDA to request
+2020-09-11 09:34:49.392 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:34:49.394 Logger INFO  - Executing GET to /rest/api/2/issue/10470/
+2020-09-11 09:34:49.417 Logger INFO  - Status code: 200
+2020-09-11 09:34:49.429 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:34:49.433 Logger INFO  - Adding JSESSIONID B128C0E4FD42B23AE574B7ABB654BCDA to request
+2020-09-11 09:34:49.436 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:34:49.439 Logger INFO  - Executing PUT to /rest/api/2/issue/10470/
+2020-09-11 09:34:49.460 Logger INFO  - Status code: 204
+2020-09-11 09:34:49.460 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:34:49.462 Logger INFO  - Adding JSESSIONID B128C0E4FD42B23AE574B7ABB654BCDA to request
+2020-09-11 09:34:49.463 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:34:49.464 Logger INFO  - Executing DELETE to /rest/api/2/issue/10470/
+2020-09-11 09:34:49.493 Logger INFO  - Status code: 204
+2020-09-11 09:34:49.493 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:34:49.497 Logger INFO  - Adding JSESSIONID B128C0E4FD42B23AE574B7ABB654BCDA to request
+2020-09-11 09:34:49.498 Logger INFO  - Executing GET to /rest/api/2/issue/10470/
+2020-09-11 09:34:49.515 Logger INFO  - Status code: 404
+2020-09-11 09:34:49.516 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 09:34:49.516 Logger INFO  - Adding JSESSIONID B128C0E4FD42B23AE574B7ABB654BCDA to request
+2020-09-11 09:34:49.517 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 09:34:49.518 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 09:34:49.568 Logger INFO  - Status code: 201
+2020-09-11 09:34:49.576 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 09:34:49.579 Logger INFO  - Adding JSESSIONID B128C0E4FD42B23AE574B7ABB654BCDA to request
+2020-09-11 09:34:49.579 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 09:34:49.580 Logger INFO  - Executing GET to /rest/api/2/issue/10471/
+2020-09-11 09:34:49.602 Logger INFO  - Status code: 200
+2020-09-11 09:34:49.612 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 09:34:49.615 Logger INFO  - Adding JSESSIONID B128C0E4FD42B23AE574B7ABB654BCDA to request
+2020-09-11 09:34:49.615 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 09:34:49.617 Logger INFO  - Executing PUT to /rest/api/2/issue/10471/
+2020-09-11 09:34:49.650 Logger INFO  - Status code: 204
+2020-09-11 09:34:49.651 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 09:34:49.653 Logger INFO  - Adding JSESSIONID B128C0E4FD42B23AE574B7ABB654BCDA to request
+2020-09-11 09:34:49.653 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 09:34:49.655 Logger INFO  - Executing DELETE to /rest/api/2/issue/10471/
+2020-09-11 09:34:49.670 Logger INFO  - Status code: 204
+2020-09-11 09:34:49.671 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 09:34:49.674 Logger INFO  - Adding JSESSIONID B128C0E4FD42B23AE574B7ABB654BCDA to request
+2020-09-11 09:34:49.674 Logger INFO  - Executing GET to /rest/api/2/issue/10471/
+2020-09-11 09:34:49.709 Logger INFO  - Status code: 404
+2020-09-11 09:34:49.709 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 10:10:32.958 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 10:10:32.984 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 10:10:32.995 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 10:10:34.001 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 10:10:34.248 Logger INFO  - Setting JSESSIONID to: C7738F22AD6EB20A5DD690B0BD327CCE
+2020-09-11 10:10:34.256 Logger INFO  - Adding JSESSIONID C7738F22AD6EB20A5DD690B0BD327CCE to request
+2020-09-11 10:10:34.259 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 10:10:34.267 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 10:10:35.195 Logger INFO  - Status code: 201
+2020-09-11 10:10:35.218 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 10:10:35.229 Logger INFO  - Adding JSESSIONID C7738F22AD6EB20A5DD690B0BD327CCE to request
+2020-09-11 10:10:35.230 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 10:10:35.231 Logger INFO  - Executing GET to /rest/api/2/issue/10472/
+2020-09-11 10:10:35.278 Logger INFO  - Status code: 200
+2020-09-11 10:10:35.297 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 10:10:35.300 Logger INFO  - Adding JSESSIONID C7738F22AD6EB20A5DD690B0BD327CCE to request
+2020-09-11 10:10:35.301 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 10:10:35.303 Logger INFO  - Executing PUT to /rest/api/2/issue/10472/
+2020-09-11 10:10:35.330 Logger INFO  - Status code: 204
+2020-09-11 10:10:35.330 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 10:10:35.333 Logger INFO  - Adding JSESSIONID C7738F22AD6EB20A5DD690B0BD327CCE to request
+2020-09-11 10:10:35.334 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 10:10:35.335 Logger INFO  - Executing DELETE to /rest/api/2/issue/10472/
+2020-09-11 10:10:35.374 Logger INFO  - Status code: 204
+2020-09-11 10:10:35.375 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 10:10:35.377 Logger INFO  - Adding JSESSIONID C7738F22AD6EB20A5DD690B0BD327CCE to request
+2020-09-11 10:10:35.378 Logger INFO  - Executing GET to /rest/api/2/issue/10472/
+2020-09-11 10:10:35.392 Logger INFO  - Status code: 404
+2020-09-11 10:10:35.392 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 10:10:35.393 Logger INFO  - Adding JSESSIONID C7738F22AD6EB20A5DD690B0BD327CCE to request
+2020-09-11 10:10:35.394 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 10:10:35.395 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 10:10:35.573 Logger INFO  - Status code: 201
+2020-09-11 10:10:35.581 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 10:10:35.584 Logger INFO  - Adding JSESSIONID C7738F22AD6EB20A5DD690B0BD327CCE to request
+2020-09-11 10:10:35.585 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 10:10:35.585 Logger INFO  - Executing GET to /rest/api/2/issue/10473/
+2020-09-11 10:10:35.624 Logger INFO  - Status code: 200
+2020-09-11 10:10:35.637 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 10:10:35.640 Logger INFO  - Adding JSESSIONID C7738F22AD6EB20A5DD690B0BD327CCE to request
+2020-09-11 10:10:35.641 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 10:10:35.643 Logger INFO  - Executing PUT to /rest/api/2/issue/10473/
+2020-09-11 10:10:35.681 Logger INFO  - Status code: 204
+2020-09-11 10:10:35.682 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 10:10:35.684 Logger INFO  - Adding JSESSIONID C7738F22AD6EB20A5DD690B0BD327CCE to request
+2020-09-11 10:10:35.684 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 10:10:35.685 Logger INFO  - Executing DELETE to /rest/api/2/issue/10473/
+2020-09-11 10:10:35.750 Logger INFO  - Status code: 204
+2020-09-11 10:10:35.751 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 10:10:35.754 Logger INFO  - Adding JSESSIONID C7738F22AD6EB20A5DD690B0BD327CCE to request
+2020-09-11 10:10:35.755 Logger INFO  - Executing GET to /rest/api/2/issue/10473/
+2020-09-11 10:10:35.767 Logger INFO  - Status code: 404
+2020-09-11 10:10:35.767 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 10:10:35.768 Logger INFO  - Adding JSESSIONID C7738F22AD6EB20A5DD690B0BD327CCE to request
+2020-09-11 10:10:35.769 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 10:10:35.770 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 10:10:35.819 Logger INFO  - Status code: 201
+2020-09-11 10:10:35.825 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 10:10:35.828 Logger INFO  - Adding JSESSIONID C7738F22AD6EB20A5DD690B0BD327CCE to request
+2020-09-11 10:10:35.828 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 10:10:35.829 Logger INFO  - Executing GET to /rest/api/2/issue/10474/
+2020-09-11 10:10:35.849 Logger INFO  - Status code: 200
+2020-09-11 10:10:35.860 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 10:10:35.863 Logger INFO  - Adding JSESSIONID C7738F22AD6EB20A5DD690B0BD327CCE to request
+2020-09-11 10:10:35.863 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 10:10:35.865 Logger INFO  - Executing PUT to /rest/api/2/issue/10474/
+2020-09-11 10:10:35.892 Logger INFO  - Status code: 204
+2020-09-11 10:10:35.892 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 10:10:35.894 Logger INFO  - Adding JSESSIONID C7738F22AD6EB20A5DD690B0BD327CCE to request
+2020-09-11 10:10:35.895 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 10:10:35.895 Logger INFO  - Executing DELETE to /rest/api/2/issue/10474/
+2020-09-11 10:10:35.911 Logger INFO  - Status code: 204
+2020-09-11 10:10:35.911 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 10:10:35.913 Logger INFO  - Adding JSESSIONID C7738F22AD6EB20A5DD690B0BD327CCE to request
+2020-09-11 10:10:35.913 Logger INFO  - Executing GET to /rest/api/2/issue/10474/
+2020-09-11 10:10:35.931 Logger INFO  - Status code: 404
+2020-09-11 10:10:35.932 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 10:12:10.378 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 10:12:10.398 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 10:12:10.409 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 10:12:11.290 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 10:12:11.536 Logger INFO  - Setting JSESSIONID to: A0D8CE80982C1A17F2EEEDCD01564100
+2020-09-11 10:12:11.545 Logger INFO  - Adding JSESSIONID A0D8CE80982C1A17F2EEEDCD01564100 to request
+2020-09-11 10:12:11.547 Logger INFO  - Beginning test execution for method archiveIssueTest
+2020-09-11 10:12:11.555 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 10:12:11.707 Logger INFO  - Status code: 201
+2020-09-11 10:12:11.728 Logger INFO  - Executing PUT to /rest/api/2/issue/10475/archive/
+2020-09-11 10:12:11.769 Logger INFO  - Status code: 204
+2020-09-11 10:12:11.775 Logger INFO  - archiveIssueTest method was completed successfully.
+2020-09-11 10:12:11.779 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 10:18:41.964 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 10:18:41.983 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 10:18:41.994 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 10:18:42.917 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 10:18:43.191 Logger INFO  - Setting JSESSIONID to: B302E8C01F70302E7BA838640EFAD117
+2020-09-11 10:18:43.201 Logger INFO  - Adding JSESSIONID B302E8C01F70302E7BA838640EFAD117 to request
+2020-09-11 10:18:43.204 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 10:18:43.212 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 10:18:43.351 Logger INFO  - Status code: 201
+2020-09-11 10:18:43.379 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 10:18:43.384 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 10:18:43.385 Logger INFO  - Adding JSESSIONID B302E8C01F70302E7BA838640EFAD117 to request
+2020-09-11 10:18:43.386 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 10:18:43.388 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 10:18:43.447 Logger INFO  - Status code: 201
+2020-09-11 10:18:43.456 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 10:18:43.458 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 10:18:43.459 Logger INFO  - Adding JSESSIONID B302E8C01F70302E7BA838640EFAD117 to request
+2020-09-11 10:18:43.459 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 10:18:43.461 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 10:18:43.523 Logger INFO  - Status code: 201
+2020-09-11 10:18:43.533 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 10:18:43.539 Logger INFO  - Adding JSESSIONID B302E8C01F70302E7BA838640EFAD117 to request
+2020-09-11 10:18:43.540 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 10:18:43.541 Logger INFO  - Executing GET to /rest/api/2/issue/10476/
+2020-09-11 10:18:43.583 Logger INFO  - Status code: 200
+2020-09-11 10:18:43.600 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 10:18:43.602 Logger INFO  - Adding JSESSIONID B302E8C01F70302E7BA838640EFAD117 to request
+2020-09-11 10:18:43.603 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 10:18:43.604 Logger INFO  - Executing GET to /rest/api/2/issue/10477/
+2020-09-11 10:18:43.653 Logger INFO  - Status code: 200
+2020-09-11 10:18:43.677 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 10:18:43.681 Logger INFO  - Adding JSESSIONID B302E8C01F70302E7BA838640EFAD117 to request
+2020-09-11 10:18:43.681 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 10:18:43.682 Logger INFO  - Executing GET to /rest/api/2/issue/10478/
+2020-09-11 10:18:43.707 Logger INFO  - Status code: 200
+2020-09-11 10:18:43.770 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 10:18:43.776 Logger INFO  - Adding JSESSIONID B302E8C01F70302E7BA838640EFAD117 to request
+2020-09-11 10:18:43.777 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 10:18:43.779 Logger INFO  - Executing PUT to /rest/api/2/issue/10476/
+2020-09-11 10:18:43.844 Logger INFO  - Status code: 204
+2020-09-11 10:18:43.845 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 10:18:43.852 Logger INFO  - Adding JSESSIONID B302E8C01F70302E7BA838640EFAD117 to request
+2020-09-11 10:18:43.853 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 10:18:43.855 Logger INFO  - Executing PUT to /rest/api/2/issue/10477/
+2020-09-11 10:18:43.892 Logger INFO  - Status code: 204
+2020-09-11 10:18:43.893 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 10:18:43.896 Logger INFO  - Adding JSESSIONID B302E8C01F70302E7BA838640EFAD117 to request
+2020-09-11 10:18:43.897 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 10:18:43.898 Logger INFO  - Executing PUT to /rest/api/2/issue/10478/
+2020-09-11 10:18:43.921 Logger INFO  - Status code: 204
+2020-09-11 10:18:43.921 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 10:18:43.924 Logger INFO  - Adding JSESSIONID B302E8C01F70302E7BA838640EFAD117 to request
+2020-09-11 10:18:43.925 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 10:18:43.926 Logger INFO  - Executing DELETE to /rest/api/2/issue/10476/
+2020-09-11 10:18:43.944 Logger INFO  - Status code: 204
+2020-09-11 10:18:43.944 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 10:18:43.949 Logger INFO  - Adding JSESSIONID B302E8C01F70302E7BA838640EFAD117 to request
+2020-09-11 10:18:43.949 Logger INFO  - Executing GET to /rest/api/2/issue/10476/
+2020-09-11 10:18:43.967 Logger INFO  - Status code: 404
+2020-09-11 10:18:43.967 Logger INFO  - Adding JSESSIONID B302E8C01F70302E7BA838640EFAD117 to request
+2020-09-11 10:18:43.968 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 10:18:43.969 Logger INFO  - Executing DELETE to /rest/api/2/issue/10477/
+2020-09-11 10:18:43.999 Logger INFO  - Status code: 204
+2020-09-11 10:18:44.000 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 10:18:44.002 Logger INFO  - Adding JSESSIONID B302E8C01F70302E7BA838640EFAD117 to request
+2020-09-11 10:18:44.002 Logger INFO  - Executing GET to /rest/api/2/issue/10477/
+2020-09-11 10:18:44.016 Logger INFO  - Status code: 404
+2020-09-11 10:18:44.017 Logger INFO  - Adding JSESSIONID B302E8C01F70302E7BA838640EFAD117 to request
+2020-09-11 10:18:44.017 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 10:18:44.018 Logger INFO  - Executing DELETE to /rest/api/2/issue/10478/
+2020-09-11 10:18:44.036 Logger INFO  - Status code: 204
+2020-09-11 10:18:44.036 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 10:18:44.038 Logger INFO  - Adding JSESSIONID B302E8C01F70302E7BA838640EFAD117 to request
+2020-09-11 10:18:44.038 Logger INFO  - Executing GET to /rest/api/2/issue/10478/
+2020-09-11 10:18:44.061 Logger INFO  - Status code: 404
+2020-09-11 10:18:44.061 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 10:22:54.355 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 10:22:54.373 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 10:22:54.384 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 10:22:55.239 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 10:22:55.508 Logger INFO  - Setting JSESSIONID to: 3A8E84A01864A0B6687D08546F4891DE
+2020-09-11 10:22:55.517 Logger INFO  - Adding JSESSIONID 3A8E84A01864A0B6687D08546F4891DE to request
+2020-09-11 10:22:55.519 Logger INFO  - Beginning test execution for method archiveIssueTest
+2020-09-11 10:22:55.528 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 10:22:55.696 Logger INFO  - Status code: 201
+2020-09-11 10:22:55.715 Logger INFO  - Executing PUT to /rest/api/2/issue/10479/archive/
+2020-09-11 10:22:55.761 Logger INFO  - Status code: 204
+2020-09-11 10:22:55.765 Logger INFO  - archiveIssueTest method was completed successfully.
+2020-09-11 10:22:55.769 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 10:22:55.770 Logger INFO  - Adding JSESSIONID 3A8E84A01864A0B6687D08546F4891DE to request
+2020-09-11 10:22:55.771 Logger INFO  - Beginning test execution for method archiveIssueTest
+2020-09-11 10:22:55.772 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 10:22:55.847 Logger INFO  - Status code: 201
+2020-09-11 10:22:55.853 Logger INFO  - Executing PUT to /rest/api/2/issue/10480/archive/
+2020-09-11 10:22:55.878 Logger INFO  - Status code: 204
+2020-09-11 10:22:55.878 Logger INFO  - archiveIssueTest method was completed successfully.
+2020-09-11 10:22:55.881 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 10:22:55.882 Logger INFO  - Adding JSESSIONID 3A8E84A01864A0B6687D08546F4891DE to request
+2020-09-11 10:22:55.882 Logger INFO  - Beginning test execution for method archiveIssueTest
+2020-09-11 10:22:55.883 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 10:22:55.960 Logger INFO  - Status code: 201
+2020-09-11 10:22:55.968 Logger INFO  - Executing PUT to /rest/api/2/issue/10481/archive/
+2020-09-11 10:22:55.984 Logger INFO  - Status code: 204
+2020-09-11 10:22:55.985 Logger INFO  - archiveIssueTest method was completed successfully.
+2020-09-11 10:22:55.990 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 10:23:01.754 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 10:23:01.772 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 10:23:01.783 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 10:23:02.711 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 10:23:02.976 Logger INFO  - Setting JSESSIONID to: 42B0CA12AB0CA6F0B4BA1F07DBC89436
+2020-09-11 10:23:02.984 Logger INFO  - Adding JSESSIONID 42B0CA12AB0CA6F0B4BA1F07DBC89436 to request
+2020-09-11 10:23:02.987 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 10:23:02.994 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 10:23:03.134 Logger INFO  - Status code: 201
+2020-09-11 10:23:03.159 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 10:23:03.164 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 10:23:03.165 Logger INFO  - Adding JSESSIONID 42B0CA12AB0CA6F0B4BA1F07DBC89436 to request
+2020-09-11 10:23:03.166 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 10:23:03.167 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 10:23:03.254 Logger INFO  - Status code: 201
+2020-09-11 10:23:03.262 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 10:23:03.265 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 10:23:03.266 Logger INFO  - Adding JSESSIONID 42B0CA12AB0CA6F0B4BA1F07DBC89436 to request
+2020-09-11 10:23:03.266 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 10:23:03.267 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 10:23:03.334 Logger INFO  - Status code: 201
+2020-09-11 10:23:03.343 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 10:23:03.346 Logger INFO  - Adding JSESSIONID 42B0CA12AB0CA6F0B4BA1F07DBC89436 to request
+2020-09-11 10:23:03.347 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 10:23:03.349 Logger INFO  - Executing GET to /rest/api/2/issue/10482/
+2020-09-11 10:23:03.383 Logger INFO  - Status code: 200
+2020-09-11 10:23:03.401 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 10:23:03.404 Logger INFO  - Adding JSESSIONID 42B0CA12AB0CA6F0B4BA1F07DBC89436 to request
+2020-09-11 10:23:03.405 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 10:23:03.406 Logger INFO  - Executing GET to /rest/api/2/issue/10483/
+2020-09-11 10:23:03.428 Logger INFO  - Status code: 200
+2020-09-11 10:23:03.441 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 10:23:03.443 Logger INFO  - Adding JSESSIONID 42B0CA12AB0CA6F0B4BA1F07DBC89436 to request
+2020-09-11 10:23:03.444 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 10:23:03.445 Logger INFO  - Executing GET to /rest/api/2/issue/10484/
+2020-09-11 10:23:03.469 Logger INFO  - Status code: 200
+2020-09-11 10:23:03.480 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 10:23:03.484 Logger INFO  - Adding JSESSIONID 42B0CA12AB0CA6F0B4BA1F07DBC89436 to request
+2020-09-11 10:23:03.484 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 10:23:03.486 Logger INFO  - Executing PUT to /rest/api/2/issue/10482/
+2020-09-11 10:23:03.515 Logger INFO  - Status code: 204
+2020-09-11 10:23:03.516 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 10:23:03.519 Logger INFO  - Adding JSESSIONID 42B0CA12AB0CA6F0B4BA1F07DBC89436 to request
+2020-09-11 10:23:03.522 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 10:23:03.526 Logger INFO  - Executing PUT to /rest/api/2/issue/10483/
+2020-09-11 10:23:03.554 Logger INFO  - Status code: 204
+2020-09-11 10:23:03.554 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 10:23:03.558 Logger INFO  - Adding JSESSIONID 42B0CA12AB0CA6F0B4BA1F07DBC89436 to request
+2020-09-11 10:23:03.558 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 10:23:03.560 Logger INFO  - Executing PUT to /rest/api/2/issue/10484/
+2020-09-11 10:23:03.582 Logger INFO  - Status code: 204
+2020-09-11 10:23:03.583 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 10:23:03.588 Logger INFO  - Adding JSESSIONID 42B0CA12AB0CA6F0B4BA1F07DBC89436 to request
+2020-09-11 10:23:03.589 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 10:23:03.589 Logger INFO  - Executing DELETE to /rest/api/2/issue/10482/
+2020-09-11 10:23:03.711 Logger INFO  - Status code: 204
+2020-09-11 10:23:03.711 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 10:23:03.714 Logger INFO  - Adding JSESSIONID 42B0CA12AB0CA6F0B4BA1F07DBC89436 to request
+2020-09-11 10:23:03.714 Logger INFO  - Executing GET to /rest/api/2/issue/10482/
+2020-09-11 10:23:03.726 Logger INFO  - Status code: 404
+2020-09-11 10:23:03.727 Logger INFO  - Adding JSESSIONID 42B0CA12AB0CA6F0B4BA1F07DBC89436 to request
+2020-09-11 10:23:03.727 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 10:23:03.728 Logger INFO  - Executing DELETE to /rest/api/2/issue/10483/
+2020-09-11 10:23:03.745 Logger INFO  - Status code: 204
+2020-09-11 10:23:03.746 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 10:23:03.747 Logger INFO  - Adding JSESSIONID 42B0CA12AB0CA6F0B4BA1F07DBC89436 to request
+2020-09-11 10:23:03.748 Logger INFO  - Executing GET to /rest/api/2/issue/10483/
+2020-09-11 10:23:03.760 Logger INFO  - Status code: 404
+2020-09-11 10:23:03.761 Logger INFO  - Adding JSESSIONID 42B0CA12AB0CA6F0B4BA1F07DBC89436 to request
+2020-09-11 10:23:03.761 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 10:23:03.762 Logger INFO  - Executing DELETE to /rest/api/2/issue/10484/
+2020-09-11 10:23:03.779 Logger INFO  - Status code: 204
+2020-09-11 10:23:03.780 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 10:23:03.782 Logger INFO  - Adding JSESSIONID 42B0CA12AB0CA6F0B4BA1F07DBC89436 to request
+2020-09-11 10:23:03.782 Logger INFO  - Executing GET to /rest/api/2/issue/10484/
+2020-09-11 10:23:03.803 Logger INFO  - Status code: 404
+2020-09-11 10:23:03.804 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 10:24:33.900 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 10:24:33.918 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 10:24:33.929 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 10:24:34.856 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 10:24:35.120 Logger INFO  - Setting JSESSIONID to: C4413A87DF99FF2AF652EBFFDB3F2C52
+2020-09-11 10:24:35.129 Logger INFO  - Adding JSESSIONID C4413A87DF99FF2AF652EBFFDB3F2C52 to request
+2020-09-11 10:24:35.132 Logger INFO  - Beginning test execution for method archiveIssueTest
+2020-09-11 10:24:35.141 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 10:24:35.259 Logger INFO  - Status code: 201
+2020-09-11 10:24:35.277 Logger INFO  - Executing PUT to /rest/api/2/issue/10485/archive/
+2020-09-11 10:24:35.345 Logger INFO  - Status code: 204
+2020-09-11 10:24:35.350 Logger INFO  - archiveIssueTest method was completed successfully.
+2020-09-11 10:24:35.354 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 10:24:35.355 Logger INFO  - Adding JSESSIONID C4413A87DF99FF2AF652EBFFDB3F2C52 to request
+2020-09-11 10:24:35.355 Logger INFO  - Beginning test execution for method archiveIssueTest
+2020-09-11 10:24:35.357 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 10:24:35.446 Logger INFO  - Status code: 201
+2020-09-11 10:24:35.456 Logger INFO  - Executing PUT to /rest/api/2/issue/10486/archive/
+2020-09-11 10:24:35.494 Logger INFO  - Status code: 204
+2020-09-11 10:24:35.494 Logger INFO  - archiveIssueTest method was completed successfully.
+2020-09-11 10:24:35.498 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 10:24:35.499 Logger INFO  - Adding JSESSIONID C4413A87DF99FF2AF652EBFFDB3F2C52 to request
+2020-09-11 10:24:35.500 Logger INFO  - Beginning test execution for method archiveIssueTest
+2020-09-11 10:24:35.502 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 10:24:35.571 Logger INFO  - Status code: 201
+2020-09-11 10:24:35.581 Logger INFO  - Executing PUT to /rest/api/2/issue/10487/archive/
+2020-09-11 10:24:35.613 Logger INFO  - Status code: 204
+2020-09-11 10:24:35.613 Logger INFO  - archiveIssueTest method was completed successfully.
+2020-09-11 10:24:35.617 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 10:28:47.184 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 10:28:47.201 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 10:28:47.212 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 10:28:48.084 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 10:28:48.346 Logger INFO  - Setting JSESSIONID to: F23EB8D270DDDB5D58F2C77D207E0E64
+2020-09-11 10:28:48.355 Logger INFO  - Adding JSESSIONID F23EB8D270DDDB5D58F2C77D207E0E64 to request
+2020-09-11 10:28:48.358 Logger INFO  - Beginning test execution for method archiveIssueTest
+2020-09-11 10:28:48.368 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 10:28:48.507 Logger INFO  - Status code: 201
+2020-09-11 10:28:48.527 Logger INFO  - Executing PUT to /rest/api/2/issue/10488/archive/
+2020-09-11 10:28:48.582 Logger INFO  - Status code: 204
+2020-09-11 10:28:48.586 Logger INFO  - archiveIssueTest method was completed successfully.
+2020-09-11 10:28:48.591 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 10:28:48.593 Logger INFO  - Adding JSESSIONID F23EB8D270DDDB5D58F2C77D207E0E64 to request
+2020-09-11 10:28:48.593 Logger INFO  - Beginning test execution for method archiveIssueTest
+2020-09-11 10:28:48.595 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 10:28:48.637 Logger INFO  - Status code: 201
+2020-09-11 10:28:48.647 Logger INFO  - Executing PUT to /rest/api/2/issue/10489/archive/
+2020-09-11 10:28:48.671 Logger INFO  - Status code: 204
+2020-09-11 10:28:48.672 Logger INFO  - archiveIssueTest method was completed successfully.
+2020-09-11 10:28:48.676 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 10:28:48.679 Logger INFO  - Adding JSESSIONID F23EB8D270DDDB5D58F2C77D207E0E64 to request
+2020-09-11 10:28:48.680 Logger INFO  - Beginning test execution for method archiveIssueTest
+2020-09-11 10:28:48.682 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 10:28:48.737 Logger INFO  - Status code: 201
+2020-09-11 10:28:48.744 Logger INFO  - Executing PUT to /rest/api/2/issue/10490/archive/
+2020-09-11 10:28:48.767 Logger INFO  - Status code: 204
+2020-09-11 10:28:48.767 Logger INFO  - archiveIssueTest method was completed successfully.
+2020-09-11 10:28:48.770 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 10:28:55.172 Logger INFO  - BEGINNING TEST RUN IN CLASS org.testng.TestRunner
+2020-09-11 10:28:55.191 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 10:28:55.201 Logger INFO  - Sending authorisation request to /rest/auth/1/session/
+2020-09-11 10:28:56.109 Logger INFO  - Response status: HTTP/1.1 200 
+2020-09-11 10:28:56.372 Logger INFO  - Setting JSESSIONID to: B8A3F9CED78852E2D3F5CAACA7342454
+2020-09-11 10:28:56.380 Logger INFO  - Adding JSESSIONID B8A3F9CED78852E2D3F5CAACA7342454 to request
+2020-09-11 10:28:56.383 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 10:28:56.391 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 10:28:56.529 Logger INFO  - Status code: 201
+2020-09-11 10:28:56.557 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 10:28:56.562 Logger INFO  - Adding JSESSIONID B8A3F9CED78852E2D3F5CAACA7342454 to request
+2020-09-11 10:28:56.563 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 10:28:56.564 Logger INFO  - Executing GET to /rest/api/2/issue/10491/
+2020-09-11 10:28:56.615 Logger INFO  - Status code: 200
+2020-09-11 10:28:56.641 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 10:28:56.645 Logger INFO  - Adding JSESSIONID B8A3F9CED78852E2D3F5CAACA7342454 to request
+2020-09-11 10:28:56.645 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 10:28:56.647 Logger INFO  - Executing PUT to /rest/api/2/issue/10491/
+2020-09-11 10:28:56.675 Logger INFO  - Status code: 204
+2020-09-11 10:28:56.676 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 10:28:56.679 Logger INFO  - Adding JSESSIONID B8A3F9CED78852E2D3F5CAACA7342454 to request
+2020-09-11 10:28:56.680 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 10:28:56.681 Logger INFO  - Executing DELETE to /rest/api/2/issue/10491/
+2020-09-11 10:28:56.706 Logger INFO  - Status code: 204
+2020-09-11 10:28:56.707 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 10:28:56.710 Logger INFO  - Adding JSESSIONID B8A3F9CED78852E2D3F5CAACA7342454 to request
+2020-09-11 10:28:56.710 Logger INFO  - Executing GET to /rest/api/2/issue/10491/
+2020-09-11 10:28:56.732 Logger INFO  - Status code: 404
+2020-09-11 10:28:56.733 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 10:28:56.734 Logger INFO  - Adding JSESSIONID B8A3F9CED78852E2D3F5CAACA7342454 to request
+2020-09-11 10:28:56.734 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 10:28:56.738 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 10:28:56.787 Logger INFO  - Status code: 201
+2020-09-11 10:28:56.796 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 10:28:56.800 Logger INFO  - Adding JSESSIONID B8A3F9CED78852E2D3F5CAACA7342454 to request
+2020-09-11 10:28:56.800 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 10:28:56.801 Logger INFO  - Executing GET to /rest/api/2/issue/10492/
+2020-09-11 10:28:56.824 Logger INFO  - Status code: 200
+2020-09-11 10:28:56.836 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 10:28:56.841 Logger INFO  - Adding JSESSIONID B8A3F9CED78852E2D3F5CAACA7342454 to request
+2020-09-11 10:28:56.843 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 10:28:56.845 Logger INFO  - Executing PUT to /rest/api/2/issue/10492/
+2020-09-11 10:28:56.866 Logger INFO  - Status code: 204
+2020-09-11 10:28:56.867 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 10:28:56.871 Logger INFO  - Adding JSESSIONID B8A3F9CED78852E2D3F5CAACA7342454 to request
+2020-09-11 10:28:56.871 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 10:28:56.872 Logger INFO  - Executing DELETE to /rest/api/2/issue/10492/
+2020-09-11 10:28:56.893 Logger INFO  - Status code: 204
+2020-09-11 10:28:56.893 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 10:28:56.897 Logger INFO  - Adding JSESSIONID B8A3F9CED78852E2D3F5CAACA7342454 to request
+2020-09-11 10:28:56.897 Logger INFO  - Executing GET to /rest/api/2/issue/10492/
+2020-09-11 10:28:56.912 Logger INFO  - Status code: 404
+2020-09-11 10:28:56.912 Logger INFO  - Setting base URI to http://localhost:8080
+2020-09-11 10:28:56.913 Logger INFO  - Adding JSESSIONID B8A3F9CED78852E2D3F5CAACA7342454 to request
+2020-09-11 10:28:56.914 Logger INFO  - Beginning test execution for method createNewIssueTest
+2020-09-11 10:28:56.915 Logger INFO  - Executing POST to /rest/api/2/issue/
+2020-09-11 10:28:56.966 Logger INFO  - Status code: 201
+2020-09-11 10:28:56.978 Logger INFO  - createNewIssueTest method was completed successfully.
+2020-09-11 10:28:56.982 Logger INFO  - Adding JSESSIONID B8A3F9CED78852E2D3F5CAACA7342454 to request
+2020-09-11 10:28:56.983 Logger INFO  - Beginning test execution for method getCreatedIssueTest
+2020-09-11 10:28:56.983 Logger INFO  - Executing GET to /rest/api/2/issue/10493/
+2020-09-11 10:28:57.002 Logger INFO  - Status code: 200
+2020-09-11 10:28:57.013 Logger INFO  - getCreatedIssueTest method was completed successfully.
+2020-09-11 10:28:57.016 Logger INFO  - Adding JSESSIONID B8A3F9CED78852E2D3F5CAACA7342454 to request
+2020-09-11 10:28:57.016 Logger INFO  - Beginning test execution for method updateCreatedIssueTest
+2020-09-11 10:28:57.018 Logger INFO  - Executing PUT to /rest/api/2/issue/10493/
+2020-09-11 10:28:57.306 Logger INFO  - Status code: 204
+2020-09-11 10:28:57.306 Logger INFO  - updateCreatedIssueTest method was completed successfully.
+2020-09-11 10:28:57.308 Logger INFO  - Adding JSESSIONID B8A3F9CED78852E2D3F5CAACA7342454 to request
+2020-09-11 10:28:57.309 Logger INFO  - Beginning test execution for method deleteCreatedIssueTest
+2020-09-11 10:28:57.309 Logger INFO  - Executing DELETE to /rest/api/2/issue/10493/
+2020-09-11 10:28:57.325 Logger INFO  - Status code: 204
+2020-09-11 10:28:57.325 Logger INFO  - deleteCreatedIssueTest method was completed successfully.
+2020-09-11 10:28:57.328 Logger INFO  - Adding JSESSIONID B8A3F9CED78852E2D3F5CAACA7342454 to request
+2020-09-11 10:28:57.328 Logger INFO  - Executing GET to /rest/api/2/issue/10493/
+2020-09-11 10:28:57.347 Logger INFO  - Status code: 404
+2020-09-11 10:28:57.347 Logger INFO  - ENDING TEST RUN IN CLASS org.testng.TestRunner

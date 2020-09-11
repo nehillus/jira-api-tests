@@ -42,16 +42,18 @@ public class JiraIssueApiTests extends BaseTest{
 	}
 	
 	@Test(priority = 1)
-	public void deleteCreatedBugTest() {
+	public void deleteCreatedIssueTest() {
 		requestExecutionService.deleteFromApi(ApiUrl.ISSUE.getUrl(), createdissueId);
 		Assert.assertTrue(responseAssertionService.assertStatusCode2xx());
 	}
 	
 	@AfterClass
 	public void cleanUp() {
+		authorisationService.authorizeUser();
+		requestBuilderService.addSessionCookieToRequest();
 		requestExecutionService.getFromApi(ApiUrl.ISSUE.getUrl(), createdissueId);
-		Logger.info("Cleaning up");
 		if (responseAssertionService.assertStatusCode2xx()) {
+			Logger.info("Removing issue with id " + createdissueId);
 			requestExecutionService.deleteFromApi(ApiUrl.ISSUE.getUrl(), createdissueId);
 		}
 	}

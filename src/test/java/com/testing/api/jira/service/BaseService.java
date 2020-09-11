@@ -11,4 +11,11 @@ public abstract class BaseService {
 
 	protected static Response response;
 	protected static RequestSpecification specification = RestAssured.given().contentType(ContentType.JSON);
+	
+	protected void logRequest() {
+		specification.log().body();
+		specification.log().headers();
+		specification.log().cookies();
+		specification.log().parameters();
+	}
 }
